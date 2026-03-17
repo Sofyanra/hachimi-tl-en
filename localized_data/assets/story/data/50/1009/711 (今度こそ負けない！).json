@@ -1,0 +1,254 @@
+{
+    "version": 6,
+    "bundle": "YU4AXRTKAP7ZXJ3OWY7AEPHXVTBQUYC7",
+    "type": "story",
+    "storyId": "501009711",
+    "title": "今度こそ負けない！",
+    "text": [
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "そ、そんな……。\r\nまた負けちゃうなんて……。",
+            "enText": "Oh, no.…… I can't believe I'm losing again. ……",
+            "nextBlock": 2,
+            "origClipLength": 60,
+            "voiceIdx": 17,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 7895658147700343218
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 2244940712149536954
+                }
+            ],
+            "pathId": 3682920818807550051,
+            "blockIdx": 1
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "『1番になる』っていつも言っておいて\r\nこのざまだなんて……。",
+            "enText": "I can't believe this is what happens when you \nalways say, \"I'll be number one.\" ……",
+            "nextBlock": 3,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -1055448165815836590
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -2538681670192525778
+                }
+            ],
+            "pathId": 157180289684049298,
+            "blockIdx": 2
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "こんなんじゃ、ウマ娘の頂点になんて\r\n立てっこないじゃない……っ！",
+            "enText": "You'll never make it to the top of horsegirl \nlike this. ……!",
+            "nextBlock": 4,
+            "origClipLength": 66,
+            "voiceIdx": 18,
+            "choices": [
+                {
+                    "jpText": "チャンスはまだある！",
+                    "enText": "We still have a chance!",
+                    "nextBlock": 5
+                },
+                {
+                    "jpText": "チャンスはまだあるよ！",
+                    "enText": "You still have a chance!",
+                    "nextBlock": 5
+                },
+                {
+                    "jpText": "一緒に鍛えなおそう！",
+                    "enText": "Let's work out again together!",
+                    "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": -1039458506903243612
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -3549339798975205222
+                }
+            ],
+            "pathId": -2260883364953569925,
+            "blockIdx": 3
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "こんなんじゃ、ウマ娘の頂点になんて\r\n立てっこないじゃない……っ！",
+            "enText": "You'll never make it to the top of horsegirl \nlike this. ……!",
+            "nextBlock": 5,
+            "origClipLength": 66,
+            "voiceIdx": 18,
+            "choices": [
+                {
+                    "jpText": "チャンスはまだある！",
+                    "enText": "We still have a chance!",
+                    "nextBlock": 5
+                },
+                {
+                    "jpText": "チャンスはまだあるよ！",
+                    "enText": "You still have a chance!",
+                    "nextBlock": 5
+                },
+                {
+                    "jpText": "一緒に鍛えなおそう！",
+                    "enText": "Let's work out again together!",
+                    "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": 6711962428715422691
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 623588844381382199
+                }
+            ],
+            "pathId": -6080844814104960899,
+            "blockIdx": 4
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "そんなのわかってるわよ……！\r\nだから気合い入れ直さなきゃって思ってるの！",
+            "enText": "I know that's what I'm talking about. ……! \nThat's why I'm trying to get back into the \nswing of things!",
+            "nextBlock": 6,
+            "origClipLength": 69,
+            "voiceIdx": 19,
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": 2739310392780857799
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 5213428452729629433
+                }
+            ],
+            "pathId": 2163359261105638926,
+            "blockIdx": 5
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "アタシが諦めない限り、\r\nチャンスはいくらでもある……！",
+            "enText": "As long as I don't give up, there are plenty \nof chances: ……!",
+            "nextBlock": 7,
+            "origClipLength": 63,
+            "voiceIdx": 61,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": 1063998075392913240
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -8997795661320334673
+                }
+            ],
+            "pathId": -3182980646198775151,
+            "blockIdx": 6
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "100回でも1000回でも、\r\nいくらでも走って絶対挽回するんだから！",
+            "enText": "I'll run a hundred times, a thousand times, \nI'll run as many times as I have to, and I'll \nmake up for it!",
+            "nextBlock": -1,
+            "origClipLength": 67,
+            "voiceIdx": 11,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -4165329339313737424
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -6384233723486225596
+                }
+            ],
+            "pathId": 7329435778499783780,
+            "blockIdx": 7
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "当たり前でしょ！\r\n言われなくったってそうするし……！",
+            "enText": "Of course I would! I would have done so even \nif you hadn't told me. ……!",
+            "nextBlock": 9,
+            "origClipLength": 62,
+            "voiceIdx": 19,
+            "animData": [
+                {
+                    "origLen": 11,
+                    "pathId": 1099888851318466763
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 4319434017097225540
+                }
+            ],
+            "pathId": -1038945295864133992,
+            "blockIdx": 8
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "見てなさい、絶対に1番まで這い上がるから！\r\nアタシは1番を諦めたりなんてしないわ！",
+            "enText": "Watch me, I'll make it to number one! I will \nnever give up on number one!",
+            "nextBlock": 10,
+            "origClipLength": 72,
+            "voiceIdx": 18,
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": -7758768790652252115
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 2172315569234630406
+                }
+            ],
+            "pathId": -5723527004463148278,
+            "blockIdx": 9
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "そうと決まれば早速トレーニングよ！\r\n当然アンタも、付き合うんだからね！",
+            "enText": "Once that's decided, we'll get \nto workout! And you, of course, \nare going along for the ride!",
+            "nextBlock": -1,
+            "origClipLength": 68,
+            "voiceIdx": 10,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 2114109750253671514
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -2759859326320105688
+                }
+            ],
+            "pathId": 6287705652325545423,
+            "blockIdx": 10
+        }
+    ],
+    "modified": 1674832114
+}

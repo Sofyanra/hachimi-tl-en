@@ -1,0 +1,609 @@
+{
+    "version": 6,
+    "bundle": "SJAC5RKUOFYUJDZASTHRPWGTSWCYZ5FA",
+    "type": "story",
+    "storyId": "501009523",
+    "title": "夢か、魔法か、天啓か",
+    "text": [
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "はぁ～あ……。\r\nアタシ、速くなれてるのかしら。",
+            "enText": "Sigh……… I wonder if I'm getting faster.",
+            "nextBlock": 2,
+            "origClipLength": 60,
+            "voiceIdx": 35,
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 759905916027651140
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 3765300334053134094
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 6219395101229076742
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 2803718811543255597
+                }
+            ],
+            "pathId": -4952566351068673370,
+            "blockIdx": 1
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "最近どうも伸び悩んでるっていうか……\r\nはぁ、モヤモヤするな～……。",
+            "enText": "I've been feeling a bit sluggish lately, or…… \nhuh, it's a blur… ……",
+            "nextBlock": 3,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 5214097963984106875
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 2776896636652190736
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -8381247746572684746
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -4485611059866638913
+                }
+            ],
+            "pathId": -1083560101040558051,
+            "blockIdx": 2
+        },
+        {
+            "jpName": "スイープトウショウ",
+            "enName": "Sweep Tosho",
+            "jpText": "あーー！！\r\nその魔法陣、踏んじゃダメ～～！！",
+            "enText": "Aah! Don't step on that magic circle～!",
+            "nextBlock": 4,
+            "origClipLength": 60,
+            "voiceIdx": 25,
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": 3088119733414746518
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 6087635274674148134
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 8038585536428588585
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -7975424721419851298
+                },
+                {
+                    "origLen": 85,
+                    "pathId": -5610324001277628061
+                },
+                {
+                    "origLen": 85,
+                    "pathId": -7700608440030429398
+                }
+            ],
+            "pathId": 4040486413367265504,
+            "blockIdx": 3
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "え？　魔法陣？\r\nあ、この地面に描いてあるやつ？",
+            "enText": "What? Magic circle? Oh, this \nthing painted on the ground?",
+            "nextBlock": 5,
+            "origClipLength": 60,
+            "voiceIdx": 26,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 2158762866363381772
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -8976948591894858656
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -5621545633832490445
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -905305621460185806
+                },
+                {
+                    "origLen": 47,
+                    "pathId": -2419663939137124460
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 7000468178952472064
+                }
+            ],
+            "pathId": -7233140932627679112,
+            "blockIdx": 4
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "って……あれ！？　どこここ！？\r\nていうかウオッカ！？　いつの間に――",
+            "enText": "What does…… mean? Where am I? \nI mean, vodka! When did you―",
+            "nextBlock": 6,
+            "origClipLength": 67,
+            "voiceIdx": 27,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 2072133021284492217
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -6810551180461085722
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -9081132913545528583
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 1602828673420831634
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 6844244656872503007
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -7142361263338291296
+                },
+                {
+                    "origLen": 156,
+                    "pathId": 3896098837571627107
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 7407551430279904161
+                }
+            ],
+            "pathId": -7653521232322579192,
+            "blockIdx": 5
+        },
+        {
+            "jpName": "ウオッカ？",
+            "enName": "",
+            "jpText": "うふふ～、スカーレット～！\r\n1番になりたきゃ、俺を捕まえてみやがれ～♪",
+            "enText": "Ummm… Scarlett! If you want to be number one, \nyou'll have to catch me!",
+            "nextBlock": 7,
+            "origClipLength": 68,
+            "voiceIdx": 1,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": -2650479155922144918
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 1764457384623780046
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 4994111458508107069
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 3438432581424580032
+                }
+            ],
+            "pathId": -1610187830945685703,
+            "blockIdx": 6
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ちょ、ちょっと！？\r\nああもうっ！　待ちなさいよ～～！！",
+            "enText": "Hey, hey! Oh, my God! Wait for me～!",
+            "nextBlock": 8,
+            "origClipLength": 63,
+            "voiceIdx": 53,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 7477986236711852448
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -8583862867786839033
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 8212544994609963679
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -4058439030015064318
+                }
+            ],
+            "pathId": 4327840870801080049,
+            "blockIdx": 7
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "はぁ……はぁ……捕まえてやったわ。\r\n1番はこのアタシよ！",
+            "enText": "Ha…… ha…… I got her. Number one is me!",
+            "nextBlock": 9,
+            "origClipLength": 116,
+            "voiceIdx": 58,
+            "animData": [
+                {
+                    "origLen": 150,
+                    "pathId": 6217641889113004880
+                },
+                {
+                    "origLen": 147,
+                    "pathId": 8014787936191456875
+                },
+                {
+                    "origLen": 150,
+                    "pathId": 4669724982225038376
+                },
+                {
+                    "origLen": 136,
+                    "pathId": 4341215460109557250
+                }
+            ],
+            "pathId": -8439233938276627755,
+            "blockIdx": 8
+        },
+        {
+            "jpName": "ウオッカ？",
+            "enName": "",
+            "jpText": "ヘヘッ、なかなかの差し返しだったぜ！\r\nやるじゃねーか！",
+            "enText": "Heh heh, that was quite \na comeback! You're good!",
+            "nextBlock": 10,
+            "origClipLength": 63,
+            "voiceIdx": 2,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -376535105836279085
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -7105990668002654281
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 3008675131054358941
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -1311609223038088780
+                }
+            ],
+            "pathId": -8788607619966320180,
+            "blockIdx": 9
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ふ、ふん……なによ、\r\nヤケに素直にアタシのこと褒めるじゃない。",
+            "enText": "What's up with…… you're so \nhonest in your praise of me.",
+            "nextBlock": 11,
+            "origClipLength": 65,
+            "voiceIdx": 3,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -707135205216654477
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 5554275955829065939
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -6502389352222328625
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 9214908044396540811
+                }
+            ],
+            "pathId": -7469108608235803826,
+            "blockIdx": 10
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "まあ？　足場が悪かったから、\r\nいつもより走り方に気を配ったし……あ！",
+            "enText": "Well? The scaffolding was bad, so I paid more \nattention to how I ran than usual.…… Ah!",
+            "nextBlock": 12,
+            "origClipLength": 67,
+            "voiceIdx": 31,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 7761412282090255105
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 7320701366539039056
+                },
+                {
+                    "origLen": 35,
+                    "pathId": 3383986299628640947
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 7916770736618640174
+                }
+            ],
+            "pathId": -82190277618826368,
+            "blockIdx": 11
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "そっか、この感覚――！",
+            "enText": "I see, this feeling―!",
+            "nextBlock": 13,
+            "origClipLength": 52,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": 4958417156525962229
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 893254233325531582
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -6374055339629254502
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 5012781963052494824
+                }
+            ],
+            "pathId": 8238809520746185593,
+            "blockIdx": 12
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "って、あれ？　……戻った？",
+            "enText": "What does that mean? You're back at ……?",
+            "nextBlock": 14,
+            "origClipLength": 53,
+            "voiceIdx": 26,
+            "animData": [
+                {
+                    "origLen": 149,
+                    "pathId": -3107141543177219722
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -7560090759935379571
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 1507023256595498132
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 1700803193986750079
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -4252882011379409155
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -4992704881983643104
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 7977875542894174672
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -8107488410612167744
+                }
+            ],
+            "pathId": 2493623625538079755,
+            "blockIdx": 13
+        },
+        {
+            "jpName": "スイープトウショウ",
+            "enName": "Sweep Tosho",
+            "jpText": "び、びっくりさせないでよ！\r\n魔法陣踏んだまま黙っちゃって、もう。",
+            "enText": "You scared me! You just stepped on the magic \ncircle and shut up.",
+            "nextBlock": 15,
+            "origClipLength": 66,
+            "voiceIdx": 15,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 3783200122057117789
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -1989593751910018703
+                },
+                {
+                    "origLen": 39,
+                    "pathId": -8660566559353924731
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 2996149165638718239
+                }
+            ],
+            "pathId": -8413798371609131083,
+            "blockIdx": 14
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "（魔法陣？\r\nもしかして、今の魔法の力で……）",
+            "enText": "(Magic circle? Maybe it's magic now. ……)",
+            "nextBlock": 16,
+            "origClipLength": 60,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 79511651502081166
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 6671292844420509980
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -2892657310498151956
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -2644076581398053570
+                }
+            ],
+            "pathId": -4563481390040637421,
+            "blockIdx": 15
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "（なんて、うん……ないない、ないわね）",
+            "enText": "(No, no, no, no, no, no, no, no, no, no, no, \nno, no, no, no, no.)",
+            "nextBlock": 17,
+            "origClipLength": 57,
+            "voiceIdx": 49,
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": 8865676776229471278
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -8333286169314001521
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -822004694742958802
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 7352470716900043597
+                }
+            ],
+            "pathId": -1615101121297912878,
+            "blockIdx": 16
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "あはは、心配かけてごめんね。\r\nちょっと疲れてボーッとしてたわ。",
+            "enText": "Haha, sorry for worrying you. I was just a \nlittle tired and spaced out.",
+            "nextBlock": 18,
+            "origClipLength": 65,
+            "voiceIdx": 0,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 4164702611327512824
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 4851253067168218646
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -8388637471338240853
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 3697622609270399936
+                }
+            ],
+            "pathId": -444028533300930014,
+            "blockIdx": 17
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "でも……おかげで、\r\nちょっとひらめいた気がする！",
+            "enText": "But thanks to…… I think I \ngot a little inspiration!",
+            "nextBlock": 19,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": -6292425160144894929
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 7353900664934330506
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 2276461554056647207
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -4424943905998974016
+                }
+            ],
+            "pathId": -8129658030044212369,
+            "blockIdx": 18
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "これで本番でも、アイツに勝ってやるわ……！",
+            "enText": "Now I'm going to beat that \nguy in the show. ……!",
+            "nextBlock": -1,
+            "origClipLength": 58,
+            "voiceIdx": 63,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -736885952127834199
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 6266323588105548673
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -6447291881098424173
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -7851178409913962804
+                }
+            ],
+            "pathId": 5577010743427165009,
+            "blockIdx": 19
+        }
+    ],
+    "modified": 1674832113
+}

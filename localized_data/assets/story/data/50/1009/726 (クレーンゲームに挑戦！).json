@@ -1,0 +1,292 @@
+{
+    "version": 6,
+    "bundle": "SAZA2QGFAC33N6T47V7M6AAHMA4IBZGB",
+    "type": "story",
+    "storyId": "501009726",
+    "title": "クレーンゲームに挑戦！",
+    "text": [
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "ある日、\r\nダイワスカーレットと出かけた先で――",
+            "enText": "One day, while out with Daiwa Scarlet…",
+            "nextBlock": 2,
+            "origClipLength": 75,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -4377625010882877412
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -1128050682583992030
+                }
+            ],
+            "pathId": 6725427392132064588,
+            "blockIdx": 1
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "あっ！\n見て見て、あれ！",
+            "enText": "Ah! Look, look, look, that one!",
+            "nextBlock": 3,
+            "origClipLength": 60,
+            "voiceIdx": 31,
+            "choices": [
+                {
+                    "jpText": "どうしたんだ？",
+                    "enText": "What's going on?",
+                    "nextBlock": 3
+                },
+                {
+                    "jpText": "どうしたの？",
+                    "enText": "What's wrong?",
+                    "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 732485443255357561
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 1928893931138254240
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7331633777574973075
+                }
+            ],
+            "pathId": -3290806198403156130,
+            "blockIdx": 2
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "あの、クレーンゲームよ。\r\n景品がほら、ぱかプチ！",
+            "enText": "You know, the crane game. The prize is, you \nknow, a little something!",
+            "nextBlock": 4,
+            "origClipLength": 71,
+            "voiceIdx": 90,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 5849548020261276481
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -2911979011409911956
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 6581751477833472356
+                }
+            ],
+            "pathId": 6216011476035790966,
+            "blockIdx": 3
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "ダイワスカーレットが示すほうを見てみると、\nウマ娘たちをモチーフにしたぬいぐるみが\n入った、クレーンゲームがあった。",
+            "enText": "Daiwa Scarlet pointed toward a crane game \nwith stuffed toys featuring the horsegirl \ngirls. The crane game with stuffed toys \nfeaturing the horsegirl girls.",
+            "nextBlock": 5,
+            "origClipLength": 120,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": -1535053240772476128
+                },
+                {
+                    "origLen": 132,
+                    "pathId": -2193138974526673298
+                },
+                {
+                    "origLen": 160,
+                    "pathId": 2310755457058092616
+                }
+            ],
+            "pathId": -7770799389885042305,
+            "blockIdx": 4
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ふふ、かわいいじゃない！\nそれに種類も多いみたいね。",
+            "enText": "Hmmm, isn't she cute! And you seem to have so \nmany varieties.",
+            "nextBlock": 6,
+            "origClipLength": 78,
+            "voiceIdx": 74,
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": -1807954631481727024
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -3240704659407273542
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 227450392900844369
+                }
+            ],
+            "pathId": -7195248171688083049,
+            "blockIdx": 5
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "どんな子がいるのかも、\nつい気になっちゃうわ……！",
+            "enText": "I'm just curious to see what kind of kids \nthey have. ……!",
+            "nextBlock": 7,
+            "origClipLength": 77,
+            "voiceIdx": 0,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -9111915780904799353
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 3008770483032674740
+                }
+            ],
+            "pathId": 998666311420762749,
+            "blockIdx": 6
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "ダイワスカーレットは楽しそうな笑みを\n浮かべながら、ぬいぐるみを見ていた。",
+            "enText": "Daiwa Scarlet looked at the stuffed animal \nwith a happy smile on her face.",
+            "nextBlock": 8,
+            "origClipLength": 93,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "……取ろうか？",
+                    "enText": "Shall I take ……?",
+                    "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -4281087061363358024
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -5121786682290306288
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 3410393480682011725
+                }
+            ],
+            "pathId": 1449080960906754929,
+            "blockIdx": 7
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "っ……別にただ見てただけよ。\n実際に欲しかったわけじゃないから。",
+            "enText": "I was just looking…… I didn't \nactually want it.",
+            "nextBlock": 9,
+            "origClipLength": 86,
+            "voiceIdx": 19,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -8058253705218428174
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 838727106022160866
+                },
+                {
+                    "origLen": 115,
+                    "pathId": 3453618129344487252
+                }
+            ],
+            "pathId": 4500732982782858207,
+            "blockIdx": 8
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "でも、アンタがどうしてもプレゼント\nしたいんなら、受け取ってあげる。",
+            "enText": "But if you really want to give me a gift, I \nwill accept it.",
+            "nextBlock": 10,
+            "origClipLength": 89,
+            "voiceIdx": 2,
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -5817562287397296225
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -5633027949951069993
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -366479248159899568
+                }
+            ],
+            "pathId": -8102552669753340059,
+            "blockIdx": 9
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "だから、その、頑張りなさいよねっ……！",
+            "enText": "So, you know, good luck with that. ……!",
+            "nextBlock": 11,
+            "origClipLength": 69,
+            "voiceIdx": 15,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -2859534275786123214
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -6049348830137417651
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -7685083572637881252
+                }
+            ],
+            "pathId": 5970134832660480181,
+            "blockIdx": 10
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "――このゲーム、負けられない！！",
+            "enText": "―This game, you can't lose!",
+            "nextBlock": -1,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -6987698470781504811
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -7070210145380354851
+                }
+            ],
+            "pathId": -6112816366254789028,
+            "blockIdx": 11
+        }
+    ],
+    "modified": 1674832115
+}

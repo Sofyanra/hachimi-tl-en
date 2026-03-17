@@ -1,0 +1,150 @@
+{
+    "version": 6,
+    "bundle": "VOWTTTN57JXBTQTFLUC47OD5U6W5MNB4",
+    "type": "story",
+    "storyId": "501009313",
+    "title": "オークスにむけて",
+    "text": [
+        {
+            "jpName": "実況",
+            "enName": "Commentator",
+            "jpText": "さあ、迎えました！\r\nティアラ路線の第2戦目！",
+            "enText": "Well, here we are! Round \ntwo of the tiara route!",
+            "nextBlock": 2,
+            "origClipLength": 60,
+            "voiceIdx": -1,
+            "pathId": -3484382845709473099,
+            "blockIdx": 1
+        },
+        {
+            "jpName": "実況",
+            "enName": "Commentator",
+            "jpText": "今年のヒロインになるのはどのウマ娘か！\r\n樫の舞台で咲き誇る彼女らを見届けましょう！",
+            "enText": "Which horsegirl will be this year's heroine? \nLet's watch them bloom on the Kashi stage!",
+            "nextBlock": 3,
+            "origClipLength": 72,
+            "voiceIdx": -1,
+            "pathId": 4359182250824241323,
+            "blockIdx": 2
+        },
+        {
+            "jpName": "解説",
+            "enName": "Color Commentator",
+            "jpText": "しかし今年のティアラ路線、\r\nまさかの事態には驚きましたね。",
+            "enText": "But this year's Tiara line, I'm surprised you \ndidn't see it coming.",
+            "nextBlock": 4,
+            "origClipLength": 64,
+            "voiceIdx": -1,
+            "pathId": -1118802551065742587,
+            "blockIdx": 3
+        },
+        {
+            "jpName": "解説",
+            "enName": "Color Commentator",
+            "jpText": "ウオッカが抜けた今、彼女の一強状態か。\r\nそれとも他の主役が一気に躍り出るか――",
+            "enText": "With Vodka out of the picture, will she be \nthe sole star of the race? Or will the other \nmain players leap into the fray?",
+            "nextBlock": 5,
+            "origClipLength": 71,
+            "voiceIdx": -1,
+            "pathId": -7697308805770208820,
+            "blockIdx": 4
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……アタシは予定通り、オークスに出た。",
+            "enText": "…… ata was on schedule for the Oaks.",
+            "nextBlock": 6,
+            "origClipLength": 57,
+            "voiceIdx": 68,
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": -2589324537730465473
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 3700817052535828762
+                }
+            ],
+            "pathId": 3324810868405442584,
+            "blockIdx": 5
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "そして予定通り、このレースで1番になるわ。\r\nそれでこそみんなに認められるはずだもの。",
+            "enText": "And I will be first in this race, as planned. \nThat's how we'll be recognized.",
+            "nextBlock": 7,
+            "origClipLength": 73,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "気負い過ぎるなよ",
+                    "enText": "Don't get too worked up.",
+                    "nextBlock": 7
+                },
+                {
+                    "jpText": "気負い過ぎないでね",
+                    "enText": "Don't get too worked up.",
+                    "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": -2937961163965438066
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 800598388380883992
+                }
+            ],
+            "pathId": -7108397067246782680,
+            "blockIdx": 6
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……心配不要よ。\r\nいつも通り、走るだけだから。",
+            "enText": "…… No need to worry. We'll just run as usual.",
+            "nextBlock": 8,
+            "origClipLength": 60,
+            "voiceIdx": 3,
+            "animData": [
+                {
+                    "origLen": 12,
+                    "pathId": 6856803139270154191
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -8444539708650755672
+                }
+            ],
+            "pathId": 8198225416373534214,
+            "blockIdx": 7
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "アイツがいない、このレースでも……っ！",
+            "enText": "She's not here, even in this race. ……!",
+            "nextBlock": -1,
+            "origClipLength": 57,
+            "voiceIdx": 69,
+            "animData": [
+                {
+                    "origLen": 6,
+                    "pathId": -7596415760043115544
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -5844339912554817522
+                }
+            ],
+            "pathId": -697603469410120381,
+            "blockIdx": 8
+        }
+    ],
+    "modified": 1674832110
+}

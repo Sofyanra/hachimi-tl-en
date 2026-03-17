@@ -1,0 +1,842 @@
+{
+    "version": 6,
+    "bundle": "N3THYFCGCB7CPOFBD3E372XGA65W4KVI",
+    "type": "story",
+    "storyId": "501009203",
+    "title": "日本ダービーにむけて",
+    "text": [
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "『日本ダービー』……。",
+            "enText": "The Japan Derby.\" ……",
+            "nextBlock": 2,
+            "origClipLength": 52,
+            "voiceIdx": 110,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -4690158613803222641
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -4583619648422241834
+                }
+            ],
+            "pathId": -1678729214543826448,
+            "blockIdx": 1
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ねえ、トレーナー。どうして\r\nこのレースに出走しようって言ったの？",
+            "enText": "Hey, trainer. Why did you say \nwe should run this race?",
+            "nextBlock": 3,
+            "origClipLength": 66,
+            "voiceIdx": 54,
+            "choices": [
+                {
+                    "jpText": "必要だと思ったから",
+                    "enText": "I thought I needed it.",
+                    "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": -6906478363171034623
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -5930823580806536584
+                }
+            ],
+            "pathId": 1900554105037104927,
+            "blockIdx": 2
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……意味わかんない。\r\nそんなのアンタの勝手な想像じゃない。",
+            "enText": "I don't understand…… It's \nnot your imagination.",
+            "nextBlock": 4,
+            "origClipLength": 64,
+            "voiceIdx": 21,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": 4534053538138969267
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 7933877312881624895
+                }
+            ],
+            "pathId": -8774141876082551385,
+            "blockIdx": 3
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "なのになんで……。\r\nアタシもオッケーしちゃったんだろ。",
+            "enText": "So why did I go to ……? I wonder why I \naccepted it too.",
+            "nextBlock": 5,
+            "origClipLength": 63,
+            "voiceIdx": 60,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 6794975472652216439
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -2490490195702132423
+                }
+            ],
+            "pathId": -5956922887661679450,
+            "blockIdx": 4
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "…………。",
+            "enText": "…………",
+            "nextBlock": 6,
+            "origClipLength": 48,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 94,
+                    "pathId": -4595975398672715017
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -541476642996292274
+                }
+            ],
+            "pathId": 142020272704583721,
+            "blockIdx": 5
+        },
+        {
+            "jpName": "観客たち",
+            "enName": "Crowd",
+            "jpText": "（ざわざわ……）",
+            "enText": "(……)",
+            "nextBlock": 7,
+            "origClipLength": 50,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": 4922081046635006543
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7081084857092383907
+                }
+            ],
+            "pathId": 4378360369698586616,
+            "blockIdx": 6
+        },
+        {
+            "jpName": "観客Ａ",
+            "enName": "",
+            "jpText": "ええっ！？　うそでしょう！？\r\nダイワスカーレットまでダービーに！？",
+            "enText": "What? No way! Even Daiwa \nScarlet is in the Derby!",
+            "nextBlock": 8,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": 1255805802232453959
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -1285573489124699452
+                }
+            ],
+            "pathId": 1604418678168625147,
+            "blockIdx": 7
+        },
+        {
+            "jpName": "観客Ａ",
+            "enName": "",
+            "jpText": "てっきり彼女はティアラ路線に\r\n乗ったものだと――",
+            "enText": "I thought she was going the tiara route.",
+            "nextBlock": 9,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -7469872755701060541
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -1239959308535977846
+                }
+            ],
+            "pathId": -4062773595142853338,
+            "blockIdx": 8
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "…………。",
+            "enText": "…………",
+            "nextBlock": 10,
+            "origClipLength": 48,
+            "voiceIdx": 110,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": -3503937292105609427
+                },
+                {
+                    "origLen": 31,
+                    "pathId": 3084934765671369108
+                }
+            ],
+            "pathId": -8655410208879830138,
+            "blockIdx": 9
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……本当、どうしてここにいるんでしょうね。",
+            "enText": "…… Really, why are we here?",
+            "nextBlock": 11,
+            "origClipLength": 58,
+            "voiceIdx": -1,
+            "pathId": -862646495786141788,
+            "blockIdx": 10
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "…………。\r\n……あ。",
+            "enText": "……………… Oh.",
+            "nextBlock": 12,
+            "origClipLength": 52,
+            "voiceIdx": 78,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 1006709757631838930
+                },
+                {
+                    "origLen": 98,
+                    "pathId": -9058899352912063220
+                }
+            ],
+            "pathId": 8838959867537635818,
+            "blockIdx": 11
+        },
+        {
+            "jpName": "乙名史記者",
+            "enName": "Otonashi Etsuko",
+            "jpText": "さて、ウオッカさん。\r\n今回ダービーに臨むことになりましたが――",
+            "enText": "Well, Vodka. I'm going to \nbe in the Derby this time―",
+            "nextBlock": 13,
+            "origClipLength": 65,
+            "voiceIdx": 9,
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 7976180624464306763
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 3347554956470920673
+                }
+            ],
+            "pathId": 4179671773723081861,
+            "blockIdx": 12
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……っ！",
+            "enText": "……!",
+            "nextBlock": 14,
+            "origClipLength": 59,
+            "voiceIdx": 112,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 4192292038721362856
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 7711204434632497996
+                }
+            ],
+            "pathId": -7533548086419053264,
+            "blockIdx": 13
+        },
+        {
+            "jpName": "乙名史記者",
+            "enName": "Otonashi Etsuko",
+            "jpText": "周囲からは様々な反響があったと思います。\r\n新たな挑戦に期待する声から……。",
+            "enText": "There have been mixed reactions from those \naround us. From people looking forward to new \nchallenges. ……",
+            "nextBlock": 15,
+            "origClipLength": 69,
+            "voiceIdx": 0,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 2866191258555790952
+                },
+                {
+                    "origLen": 131,
+                    "pathId": -176713693190758716
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -4257394690491045463
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 3053048911555069444
+                }
+            ],
+            "pathId": -2614083345804913154,
+            "blockIdx": 14
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "……『中途半端だ』って言う声までだろ。",
+            "enText": "It's up to the voices…… to say, 'You're \nhalfway there.",
+            "nextBlock": 16,
+            "origClipLength": 57,
+            "voiceIdx": 19,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -7002304007214981691
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -8332371017325757892
+                },
+                {
+                    "origLen": 25,
+                    "pathId": 3206604889209454585
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 594234409716853086
+                }
+            ],
+            "pathId": 7518604120556122026,
+            "blockIdx": 15
+        },
+        {
+            "jpName": "乙名史記者",
+            "enName": "Otonashi Etsuko",
+            "jpText": "聞き及んでいらっしゃいましたか。",
+            "enText": "Have you heard about it?",
+            "nextBlock": 17,
+            "origClipLength": 55,
+            "voiceIdx": 30,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 7951828743239731795
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 4738156231792569636
+                },
+                {
+                    "origLen": 15,
+                    "pathId": -3512925384130322731
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 987829612662375058
+                }
+            ],
+            "pathId": -1456332714466304324,
+            "blockIdx": 16
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "当たり前だろ。\r\n直接言ってくるヤツもいたし。",
+            "enText": "Of course. There were people \nwho told me directly.",
+            "nextBlock": 18,
+            "origClipLength": 60,
+            "voiceIdx": 21,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -132802416381924515
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 1112987774001140058
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 7698997778186420798
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 7024820496000609088
+                }
+            ],
+            "pathId": -8064643297994660431,
+            "blockIdx": 17
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "『理にかなってない』とか\r\n『ティアラの対決から逃げたのか』とか。",
+            "enText": "'It doesn't make sense,' or 'Did you run away \nfrom the tiara confrontation?'",
+            "nextBlock": 19,
+            "origClipLength": 66,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -6758475963600203319
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -8697376662971072559
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 3154823997363722670
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 7676931677840451050
+                }
+            ],
+            "pathId": -9110777526498458382,
+            "blockIdx": 18
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "でもその程度でダービーをあきらめるなんて、\r\nただダセェだけじゃん。",
+            "enText": "But to give up on the Derby just because of \nthat is just lame.",
+            "nextBlock": 20,
+            "origClipLength": 65,
+            "voiceIdx": 60,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -258389570633066680
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 3361364555878499868
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 1276754056528070170
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -6628985225023390857
+                }
+            ],
+            "pathId": -7651804525894231326,
+            "blockIdx": 19
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "俺がトレセン学園に入学したきっかけは、\r\n『日本ダービー』を見たことなんだ。",
+            "enText": "The reason I entered Tracen Academy was \nbecause I saw the \"Japan Derby.",
+            "nextBlock": 21,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "coloredText": [
+                {
+                    "jpText": "トレセン学園",
+                    "enText": "training centre school"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -5562567471064634068
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 6338281198557420379
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 1704892356745950237
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 1668081952990610309
+                }
+            ],
+            "pathId": -8787709851112956768,
+            "blockIdx": 20
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "どいつもこいつもこのレースは譲らねぇって\r\nバチバチ燃えてて、見てるこっちが\nビリビリ痺れちまうくらいで……。",
+            "enText": "Everyone was so fired up that they wouldn't \nlet up in this race, and it made me numb. I \nwas so numb to the sight of it. ……",
+            "nextBlock": 22,
+            "origClipLength": 80,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -2349188521222111337
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -8571051592861380679
+                },
+                {
+                    "origLen": 51,
+                    "pathId": 690713417592037955
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 4279995574167428039
+                }
+            ],
+            "pathId": 1661512337467001796,
+            "blockIdx": 21
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "……カッコよかったんだ。",
+            "enText": "It was…… cool.",
+            "nextBlock": 23,
+            "origClipLength": 52,
+            "voiceIdx": 0,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 7115475847386882164
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 6646271667914558574
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 7385558088140467684
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -7291916341654760033
+                }
+            ],
+            "pathId": -2233524853924512463,
+            "blockIdx": 22
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "だから俺もあの時のアイツらみたいに。\r\n誰かに“カッコいい”と思わせたい。",
+            "enText": "That's why I want to be like those guys back \nthen. I want someone to think I'm cool.",
+            "nextBlock": 24,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 4202358471197183234
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 5333582772554088524
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 1923545555619228968
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 7533646583097630475
+                }
+            ],
+            "pathId": -1320546865572463375,
+            "blockIdx": 23
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "俺にしか見せられない“カッコよさ”を。\r\nこの、ダービーで。",
+            "enText": "I want to show the coolness that only I can \nshow. In this derby.",
+            "nextBlock": 25,
+            "origClipLength": 64,
+            "voiceIdx": 2,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 4331975849545457265
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -1636478091842481017
+                },
+                {
+                    "origLen": 12,
+                    "pathId": -2837402854095522526
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -96817515059536165
+                }
+            ],
+            "pathId": -7758530403721786903,
+            "blockIdx": 24
+        },
+        {
+            "jpName": "乙名史記者",
+            "enName": "Otonashi Etsuko",
+            "jpText": "……そうですか。それは大変いい目標ですね。\r\nしかしそうなると1つ大きな疑問があります。",
+            "enText": "…… I see. That is a very good goal. But then \nI have one big question.",
+            "nextBlock": 26,
+            "origClipLength": 73,
+            "voiceIdx": 9,
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": -7773872205010606602
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -8722268486864415879
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -6648413045986455172
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 1856746630654099759
+                }
+            ],
+            "pathId": -3583608414336558097,
+            "blockIdx": 25
+        },
+        {
+            "jpName": "乙名史記者",
+            "enName": "Otonashi Etsuko",
+            "jpText": "もとからダービーに出走する予定だったなら\r\nなぜ『皐月賞』ではなく『桜花賞』に出走を？",
+            "enText": "If she was originally going to run in the \nDerby, why did she run in the Sakurabana-sho \ninstead of the Satsuki-sho?",
+            "nextBlock": 27,
+            "origClipLength": 73,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -8942755037758690750
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 2188783120529078624
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -6629601781410251177
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -1610706017943822172
+                }
+            ],
+            "pathId": 9095619729592394615,
+            "blockIdx": 26
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "……ちょっとだけ気になるヤツがいたんだ。",
+            "enText": "…… I had a guy on my mind for a minute.",
+            "nextBlock": 28,
+            "origClipLength": 58,
+            "voiceIdx": 19,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -8922436002861113530
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 7490838467255462521
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 7091420814485861339
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 1353608556549090304
+                }
+            ],
+            "pathId": -1224791742932596612,
+            "blockIdx": 27
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "だからぶつかって、確かめてみたかった。\r\nそれだけのことだよ。",
+            "enText": "That's why I wanted to bump into them and \nmake sure. That's all there is to it.",
+            "nextBlock": 29,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -7511869937155556058
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -4043098487080174927
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 2201205975617737179
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 4419440594171119219
+                }
+            ],
+            "pathId": -5514638172155045724,
+            "blockIdx": 28
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……。",
+            "enText": "……",
+            "nextBlock": 30,
+            "origClipLength": 46,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": 942857692304389338
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 8855938836279281456
+                },
+                {
+                    "origLen": 26,
+                    "pathId": 1486924762966129689
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -423058101953330492
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -2783063932158691817
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 8653148285705801336
+                }
+            ],
+            "pathId": -3467904017334440363,
+            "blockIdx": 29
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "なにアイツから逃げてんのよ、アタシ。",
+            "enText": "What are you running away from her, I?",
+            "nextBlock": 31,
+            "origClipLength": 56,
+            "voiceIdx": 66,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": 6931997916041786748
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 9021387520154489049
+                }
+            ],
+            "pathId": 1028360105782566331,
+            "blockIdx": 30
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "アタシ、カッコ悪すぎじゃない。\r\nこんなの全然、1番のウマ娘じゃない！",
+            "enText": "I, you're too uncool. I'm not the best \nhorsegirl at all!",
+            "nextBlock": 32,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": -7612102547955873805
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 5248130303544137723
+                }
+            ],
+            "pathId": 8879483344259584556,
+            "blockIdx": 31
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……勝たなきゃ。",
+            "enText": "…… We have to win.",
+            "nextBlock": 33,
+            "origClipLength": 50,
+            "voiceIdx": 18,
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": 758525101662737886
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 7704235868121730927
+                }
+            ],
+            "pathId": 8904529078102710887,
+            "blockIdx": 32
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "アイツに勝ってアタシは1番になるのよ。\r\n……それ以外ないんだから。",
+            "enText": "I'm going to beat her and I'm going to be \nnumber one. I have no other choice. ……",
+            "nextBlock": -1,
+            "origClipLength": 67,
+            "voiceIdx": 69,
+            "animData": [
+                {
+                    "origLen": 10,
+                    "pathId": 8757238597478758717
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 6196215905794574187
+                }
+            ],
+            "pathId": 6807472786117953063,
+            "blockIdx": 33
+        }
+    ],
+    "modified": 1674832109
+}

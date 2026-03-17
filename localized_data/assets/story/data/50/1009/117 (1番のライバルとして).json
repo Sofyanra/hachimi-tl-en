@@ -1,0 +1,1931 @@
+{
+    "version": 6,
+    "bundle": "OZNKMNJSY52V4UR5VNEET5YO63MWGNRR",
+    "type": "story",
+    "storyId": "501009117",
+    "title": "1番のライバルとして",
+    "text": [
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "――『有馬記念』は、祭りだ。\r\n今年1年を華やかに飾る大花火。",
+            "enText": "―Arima Kinen\" is a festival. A big firework \ndisplay that will glamorously decorate this \nyear's festival.",
+            "nextBlock": 2,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "pathId": 14850445260801880,
+            "blockIdx": 1
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "年末に向けて、出走するウマ娘はもちろん、\r\nファンたちも日に日に熱を帯び、\n『有馬記念』への想いを募らせていく。",
+            "enText": "As the year draws to a close, fans, as well \nas the horses running in the race, are \nbecoming more and more excited by the day. \nThe \"Arima Kinen\" is a race that is held in \nthe hearts of the fans.",
+            "nextBlock": 3,
+            "origClipLength": 81,
+            "voiceIdx": -1,
+            "pathId": -1172794357410030464,
+            "blockIdx": 2
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "そんなある日。ファンによる、\r\n事前人気投票の結果が発表され――",
+            "enText": "Then one day. The results of the preliminary \npopularity vote by fans were announced.",
+            "nextBlock": 4,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "pathId": -8764038280731800021,
+            "blockIdx": 3
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "アタシが1位よ！　トレーナー！\r\nみんなからアタシが1番って選ばれたの！",
+            "enText": "I'm in first place! Trainer! \nThey voted me number one!",
+            "nextBlock": 5,
+            "origClipLength": 68,
+            "voiceIdx": 56,
+            "choices": [
+                {
+                    "jpText": "おめでとう！！",
+                    "enText": "Congratulations!",
+                    "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 4027996257027339803
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 3081786983256126227
+                }
+            ],
+            "pathId": 897911323921344931,
+            "blockIdx": 4
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ふふん、それに見て見て！\r\nファンからのコメントもいっぱいだわ！",
+            "enText": "Hmmm, and look at that! So \nmany comments from fans!",
+            "nextBlock": 6,
+            "origClipLength": 65,
+            "voiceIdx": 6,
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": -4928361054796854632
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 8211685220445800333
+                }
+            ],
+            "pathId": -4189515843525467460,
+            "blockIdx": 5
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "『有馬記念の激走楽しみです！』\r\n『桜花賞の時から応援してました！』",
+            "enText": "\"I'm looking forward to the Arimakinen race! \nI've been rooting for you since the \nSakurabana-sho!",
+            "nextBlock": 7,
+            "origClipLength": 67,
+            "voiceIdx": 0,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -829438087749967372
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -7771389509654609301
+                }
+            ],
+            "pathId": 8878209248842828128,
+            "blockIdx": 6
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "『天皇賞（秋）以上の走りを期待してます』\r\n『ウオッカのライバルとして勝ってください』",
+            "enText": "I hope she will run even better than in the \nTennou-sho (autumn) and win as Vodka's rival.\"",
+            "nextBlock": 8,
+            "origClipLength": 73,
+            "voiceIdx": 1,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 4065196931419377188
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -8309908632256726672
+                }
+            ],
+            "pathId": 783120527182133770,
+            "blockIdx": 7
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "『ウオッカに出走してほしかったけど、今回\r\n回避するとのことでライバルに投票しました』",
+            "enText": "I wanted Vodka to run, but I voted for her \nrival because she was going to be absent from \nthe race this time.",
+            "nextBlock": 9,
+            "origClipLength": 73,
+            "voiceIdx": 38,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -3485152480931842514
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 9211110361092987833
+                }
+            ],
+            "pathId": 1125533231865772,
+            "blockIdx": 8
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……『ダイワスカーレットには必ず\r\nウオッカの分まで勝利を掴んで欲しいです』",
+            "enText": "…… \"I hope Daiwa Scarlet will be able to win \nthe race to make up for Vodka.\"",
+            "nextBlock": 10,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -6681048626149222724
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 762897777628892044
+                }
+            ],
+            "pathId": 7731151024778569376,
+            "blockIdx": 9
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "…………。",
+            "enText": "…………",
+            "nextBlock": 11,
+            "origClipLength": 48,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "大丈夫か？",
+                    "enText": "Are you okay?",
+                    "nextBlock": 11
+                },
+                {
+                    "jpText": "大丈夫？",
+                    "enText": "Great man?",
+                    "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": 1788328571190748267
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 4923178599006475390
+                }
+            ],
+            "pathId": -4031101735276332995,
+            "blockIdx": 10
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……ふんっ！　なに心配してるのよ。\r\nどこにも問題なんてないでしょ？",
+            "enText": "…… Hmph! What are you worried about? There's \nnothing wrong with you.",
+            "nextBlock": 12,
+            "origClipLength": 67,
+            "voiceIdx": 19,
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": -5929349487367533491
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -2467624661176214744
+                }
+            ],
+            "pathId": 4631651935968753345,
+            "blockIdx": 11
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "けど、困っちゃうわよね。\r\nずっとアイツの存在が付きまとうなんてさ。",
+            "enText": "But it's a problem, isn't it? I can't imagine \nher presence being with me all the time.",
+            "nextBlock": 13,
+            "origClipLength": 67,
+            "voiceIdx": 35,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 1063423771327352070
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -4842086414101879297
+                }
+            ],
+            "pathId": -761431373951085670,
+            "blockIdx": 12
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "『天皇賞（秋）』で勝ったのはアタシよ。",
+            "enText": "I won the Tennou-sho (autumn).",
+            "nextBlock": 14,
+            "origClipLength": 57,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": 1110438828647245723
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -4387863118208230608
+                }
+            ],
+            "pathId": -1205916671964072053,
+            "blockIdx": 13
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "だからこそ有馬で1番になることを\r\n期待されてるのもアタシ。",
+            "enText": "That's also why I'm expected to \nbe number one at the Arima.",
+            "nextBlock": 15,
+            "origClipLength": 64,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 6032640264398169490
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -6929190632384408190
+                }
+            ],
+            "pathId": 8974533714009942826,
+            "blockIdx": 14
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……ウオッカを超えたスカーレットだから。\r\nここで負けるだなんて、許されない。",
+            "enText": "…… because Scarlett is so much more than \nVodka. Losing here is unacceptable.",
+            "nextBlock": 16,
+            "origClipLength": 70,
+            "voiceIdx": 69,
+            "choices": [
+                {
+                    "jpText": "……スカーレット？",
+                    "enText": "…… Scarlett?",
+                    "nextBlock": 16
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 459359528199976641
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -5450033269397410198
+                }
+            ],
+            "pathId": 4857634517905069999,
+            "blockIdx": 15
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……ふふっ、なによ。\r\n不安そうな声を出しちゃって。",
+            "enText": "…… Huh, what the heck. You sounded so anxious.",
+            "nextBlock": 17,
+            "origClipLength": 61,
+            "voiceIdx": 14,
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": 5586866160634162566
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 6620353594439432790
+                }
+            ],
+            "pathId": 7047467242376568852,
+            "blockIdx": 16
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ほら、トレーニングに行くわよ。\r\n有馬への最終調整をするんでしょ？",
+            "enText": "Come on, we're going to training. \nYou're going to make final adjustments \nfor Arima, right?",
+            "nextBlock": 18,
+            "origClipLength": 66,
+            "voiceIdx": 95,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -8724739211556680565
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -7156452782076593198
+                }
+            ],
+            "pathId": 867827641657871030,
+            "blockIdx": 17
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "そしてダイワスカーレットはコースへ\r\n向かった。どこか固い表情のままで――",
+            "enText": "Daiwa Scarlet then headed out to the course. \nWith a somewhat stiff expression on her face…",
+            "nextBlock": 19,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": 6795446304326306504
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 5107441664942891945
+                }
+            ],
+            "pathId": -8402528895039608608,
+            "blockIdx": 18
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "そんな折、\r\nウオッカが再び海外遠征に出発する\nその日程が確定したとの噂を聞いた。",
+            "enText": "Then, we heard a rumor that Vodka was going \nto leave for an overseas trip again.",
+            "nextBlock": 20,
+            "origClipLength": 71,
+            "voiceIdx": -1,
+            "pathId": 4033849317098124246,
+            "blockIdx": 19
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "……それが今日だということも。",
+            "enText": "…… that it is today, too.",
+            "nextBlock": 21,
+            "origClipLength": 54,
+            "voiceIdx": -1,
+            "pathId": 5073672507022267884,
+            "blockIdx": 20
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……？\r\nトレーナー、どうしたの？",
+            "enText": "……? Trainer, what's up?",
+            "nextBlock": 22,
+            "origClipLength": 56,
+            "voiceIdx": 20,
+            "choices": [
+                {
+                    "jpText": "見送りはいいのか？",
+                    "enText": "Can we see them off?",
+                    "nextBlock": 22
+                },
+                {
+                    "jpText": "見送りはいいの？",
+                    "enText": "Can we see them off?",
+                    "nextBlock": 22
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 137,
+                    "pathId": -6093817185896652597
+                },
+                {
+                    "origLen": 123,
+                    "pathId": 5882460260120516175
+                }
+            ],
+            "pathId": 4148039438394017663,
+            "blockIdx": 21
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ああ、ウオッカのこと？\r\nいいわよ別に。",
+            "enText": "Oh, you mean vodka? Okay, nothing.",
+            "nextBlock": 23,
+            "origClipLength": 58,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 34,
+                    "pathId": -7391816675347631391
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 1908116462549553230
+                }
+            ],
+            "pathId": 5435003938228764863,
+            "blockIdx": 22
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "今まで何度も顔を突き合わせてきたんだもの。\r\n今さら会って話すことなんてないわ。",
+            "enText": "We've met face to face so many times before. \nThere's nothing to talk about now.",
+            "nextBlock": 24,
+            "origClipLength": 71,
+            "voiceIdx": 3,
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": -1207849581102610095
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -6358221195839085500
+                }
+            ],
+            "pathId": -3961268410576006735,
+            "blockIdx": 23
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "それよりも今日は午後から合同会見でしょ。\r\nさくっと調子を整えないと――",
+            "enText": "But more importantly, we have a joint press \nconference this afternoon. We need to get in \nshape quickly―",
+            "nextBlock": 25,
+            "origClipLength": 68,
+            "voiceIdx": 52,
+            "animData": [
+                {
+                    "origLen": 51,
+                    "pathId": 7070374743138712835
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 1641605839477603239
+                }
+            ],
+            "pathId": 7773122700923497063,
+            "blockIdx": 24
+        },
+        {
+            "jpName": "トウカイテイオー",
+            "enName": "Tokai Teio",
+            "jpText": "聞いた聞いた！？　スカーレット！！",
+            "enText": "Hear, hear! Scarlett!",
+            "nextBlock": 26,
+            "origClipLength": 71,
+            "voiceIdx": 36,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 5181114354639355589
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 288724209328117597
+                }
+            ],
+            "pathId": -4415337239071236503,
+            "blockIdx": 25
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "テイオー？　そんなに慌ててどうしたの？",
+            "enText": "Teo? What's the matter with \nyou in such a hurry?",
+            "nextBlock": 27,
+            "origClipLength": 57,
+            "voiceIdx": 30,
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": 4145057949898640855
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 8503411103341842045
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 3686793864159206172
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 7121411473716126251
+                }
+            ],
+            "pathId": 3827962414284297317,
+            "blockIdx": 26
+        },
+        {
+            "jpName": "トウカイテイオー",
+            "enName": "Tokai Teio",
+            "jpText": "あのね、ウオッカがね……！",
+            "enText": "You know, Vodka… ……!",
+            "nextBlock": 28,
+            "origClipLength": 53,
+            "voiceIdx": 17,
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": 1120035830374591472
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -3750997318670183806
+                },
+                {
+                    "origLen": 9,
+                    "pathId": -8425129847503091804
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 5060311062014378560
+                }
+            ],
+            "pathId": 1740468938096639550,
+            "blockIdx": 27
+        },
+        {
+            "jpName": "トウカイテイオー",
+            "enName": "Tokai Teio",
+            "jpText": "今日、空港まで行ったのに、\r\n飛行機に乗るのをやめたって！！",
+            "enText": "I went all the way to the airport \ntoday, and they said they weren't \ngoing to take the plane!!!!",
+            "nextBlock": 29,
+            "origClipLength": 64,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -4591425101795338325
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 2331603595069371412
+                },
+                {
+                    "origLen": 37,
+                    "pathId": 8200633048550631462
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -6890890894566321791
+                }
+            ],
+            "pathId": 1917637177169486684,
+            "blockIdx": 28
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "――――――っ！？",
+            "enText": "―――!",
+            "nextBlock": 30,
+            "origClipLength": 50,
+            "voiceIdx": 112,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": -6236279869091508389
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -396786937930344281
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 165764288016337891
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -6949169023484439934
+                }
+            ],
+            "pathId": 2363933448329257936,
+            "blockIdx": 29
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……なにしてんのよ、アイツ……っ！！",
+            "enText": "…… What the hell is she doing? ……!",
+            "nextBlock": 31,
+            "origClipLength": 56,
+            "voiceIdx": 18,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 6849266796215254734
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -8583484236786645757
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 6218799964853961509
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 194149328476603971
+                }
+            ],
+            "pathId": 5942979688893215389,
+            "blockIdx": 30
+        },
+        {
+            "jpName": "トウカイテイオー",
+            "enName": "Tokai Teio",
+            "jpText": "ええ、スカーレット！？\r\nそんなに急いでどこに――！？",
+            "enText": "Yeah, Scarlett! Where are \nyou in such a hurry―!",
+            "nextBlock": 32,
+            "origClipLength": 62,
+            "voiceIdx": 26,
+            "choices": [
+                {
+                    "jpText": "ウオッカのいる空港は！？",
+                    "enText": "The airport where Vodka is located!",
+                    "nextBlock": 32
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 7161471683656928448
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 388402835822165203
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -5462655371738778441
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 2807835853591088333
+                }
+            ],
+            "pathId": -9155835851611725189,
+            "blockIdx": 31
+        },
+        {
+            "jpName": "トウカイテイオー",
+            "enName": "Tokai Teio",
+            "jpText": "え、ええーっと……！",
+            "enText": "Uh, yeah… ……!",
+            "nextBlock": 33,
+            "origClipLength": 56,
+            "voiceIdx": 34,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": -3792249995095494742
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 4364226563704275114
+                }
+            ],
+            "pathId": -2395382787882973776,
+            "blockIdx": 32
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "はぁ……っ、はぁ……っ！！",
+            "enText": "Hah…… hah ……!",
+            "nextBlock": 34,
+            "origClipLength": 116,
+            "voiceIdx": 58,
+            "choices": [
+                {
+                    "jpText": "追いついた……！",
+                    "enText": "I'm catching up: ……!",
+                    "nextBlock": 34
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 183,
+                    "pathId": -8706706175891701564
+                },
+                {
+                    "origLen": 163,
+                    "pathId": -8534056132985863443
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -1977892047066634701
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 6418920452076001297
+                }
+            ],
+            "pathId": -4526732245554973865,
+            "blockIdx": 33
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ええっ！？　トレーナー！？\r\nなんでアンタまでこんなところに！？",
+            "enText": "What? Trainer! Why are you even here!",
+            "nextBlock": 35,
+            "origClipLength": 65,
+            "voiceIdx": 26,
+            "choices": [
+                {
+                    "jpText": "君を手伝いに来たんだ",
+                    "enText": "I'm here to help you.",
+                    "nextBlock": 35
+                },
+                {
+                    "jpText": "貴方を手伝いに来たの",
+                    "enText": "I'm here to help you.",
+                    "nextBlock": 35
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 7102640221774132430
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 2787137396910348247
+                }
+            ],
+            "pathId": -5753107981752739607,
+            "blockIdx": 34
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……ばか。",
+            "enText": "…… idiot.",
+            "nextBlock": 36,
+            "origClipLength": 54,
+            "voiceIdx": 110,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 6763657299608519776
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -4390093916696723543
+                }
+            ],
+            "pathId": -6915497518617757082,
+            "blockIdx": 35
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "じゃあ、アンタはあっちの方を探して！\r\nアタシはこっちの方を見てみるから！",
+            "enText": "Well, you look that way! I'll look this way!",
+            "nextBlock": 37,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 9121281656134375193
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 2307381546433460926
+                }
+            ],
+            "pathId": 4438528923153834609,
+            "blockIdx": 36
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ウオッカを見つけたら、\r\n真っ先に連絡してよね！！",
+            "enText": "If you find Vodka, you'll \nbe the first to know!",
+            "nextBlock": 38,
+            "origClipLength": 61,
+            "voiceIdx": 72,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": -7643807033400202544
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 9123742786296611789
+                }
+            ],
+            "pathId": 5158949754108038070,
+            "blockIdx": 37
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "そしてダイワスカーレットと共に\r\n空港中を駆け巡り――",
+            "enText": "And then she and Daiwa Scarlet \nrun all over the airport.",
+            "nextBlock": 39,
+            "origClipLength": 62,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -2951553159681961209
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -5387821698223159548
+                },
+                {
+                    "origLen": 98,
+                    "pathId": -2553789537802213617
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 801991000562508117
+                }
+            ],
+            "pathId": -8899048081110870086,
+            "blockIdx": 38
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……いたっ！！",
+            "enText": "…… was there!!!!!!!",
+            "nextBlock": 40,
+            "origClipLength": 49,
+            "voiceIdx": 31,
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 8221118388527015099
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -7593841719567766089
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 4579392419192853180
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 4029850178867471426
+                }
+            ],
+            "pathId": -8488380207156088505,
+            "blockIdx": 39
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "……ええ！？\r\nなんでお前らがここにいるんだよ！？",
+            "enText": "…… Yeah! Why are you guys here!",
+            "nextBlock": 41,
+            "origClipLength": 61,
+            "voiceIdx": 25,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -1962855769205186041
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 7935941022115904050
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 7940996322203739241
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 2819937533361286629
+                }
+            ],
+            "pathId": -1343471024474095847,
+            "blockIdx": 40
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "それはこっちの台詞よ！！",
+            "enText": "That's my line!",
+            "nextBlock": 42,
+            "origClipLength": 52,
+            "voiceIdx": 62,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": 7316269631021319365
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 139057557776067014
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -4890727313016951863
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 2161232041713490610
+                }
+            ],
+            "pathId": 459466599525582476,
+            "blockIdx": 41
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "『海外行く』って言ったくせに！\r\nなに行くのをやめてんのよ！！",
+            "enText": "You said you were going overseas! What are \nyou stopping me from going!",
+            "nextBlock": 43,
+            "origClipLength": 65,
+            "voiceIdx": 15,
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": 3649516926651302705
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 471665719148737628
+                },
+                {
+                    "origLen": 33,
+                    "pathId": -5580660701218406404
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 5008434403678130656
+                }
+            ],
+            "pathId": -3651140758724571634,
+            "blockIdx": 42
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "アタシはアンタがいない有馬で走るのに！\r\nいないからこそ勝ってやるつもりなのに！",
+            "enText": "I'm going to run the Arima without you! I'm \ngoing to win because you're not here!",
+            "nextBlock": 44,
+            "origClipLength": 71,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": 1931377548970532269
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -574783593329343977
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -8902416652008908388
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 1588796429667852905
+                }
+            ],
+            "pathId": 4253188412199051997,
+            "blockIdx": 43
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "たとえアンタが日本にいなくても！\r\nアンタが倒せない最大のライバルが！",
+            "enText": "Even if you are not in Japan! Your biggest \nrival you can't beat!",
+            "nextBlock": 45,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -7886596836757483320
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 8354951719780427191
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -7393314081157350980
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -933768214735092423
+                }
+            ],
+            "pathId": -3480775300393332577,
+            "blockIdx": 44
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "カッコよく1番を取り続けてやる姿を\r\n見せるって！　そう決めたのに！！",
+            "enText": "I'm going to show them how cool I am and how \nI'm going to keep getting that number one \nspot! That's what I promised myself!",
+            "nextBlock": 46,
+            "origClipLength": 67,
+            "voiceIdx": 22,
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": -1759825540526887117
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -6622801963478894249
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -1068596322566646384
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 3820860424450422186
+                }
+            ],
+            "pathId": -7454056971921607206,
+            "blockIdx": 45
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "アンタがそこでウロウロしてたら、\r\n覚悟を決めた意味がないじゃない！！",
+            "enText": "What's the point of being prepared if you're \njust going to hang around in there!",
+            "nextBlock": 47,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": 2671697935059715385
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 2560051095707930339
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -6950969205822589609
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -1747952495705852707
+                }
+            ],
+            "pathId": 1904332808792749935,
+            "blockIdx": 46
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "………………。\r\n……ぷっ、あはは。",
+            "enText": "………………… pfft, haha.",
+            "nextBlock": 48,
+            "origClipLength": 56,
+            "voiceIdx": 0,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 7841711302618552765
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -4346048244314000284
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 7419082784319932240
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 1338386607165385512
+                }
+            ],
+            "pathId": -2533362007598541552,
+            "blockIdx": 47
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "な、なに笑ってるのよ！？\r\nこっちは真剣なのよ！？",
+            "enText": "What are you laughing at? I'm serious!",
+            "nextBlock": 49,
+            "origClipLength": 61,
+            "voiceIdx": 18,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 7512912155019805357
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -1101799637771899192
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 2584325042514323069
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -7031994467026431955
+                }
+            ],
+            "pathId": 6093461246947467535,
+            "blockIdx": 48
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "あー、わりーわりー。\r\n実は今日いけないのはさ。",
+            "enText": "Oh, no, no, no. Actually, \nI shouldn't be here today.",
+            "nextBlock": 50,
+            "origClipLength": 60,
+            "voiceIdx": 14,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 7947075381291051554
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 2499987458176529799
+                },
+                {
+                    "origLen": 35,
+                    "pathId": 7374006308857194286
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -8924536002377076629
+                }
+            ],
+            "pathId": -398363638620910809,
+            "blockIdx": 49
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "飛行機の機材トラブルがあったらしーんだ。\r\nで、出発日を改めることになったと。",
+            "enText": "There was a problem with the plane's \nequipment. So they decided to change the \ndeparture date.",
+            "nextBlock": 51,
+            "origClipLength": 70,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": -7931350543188291815
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 1791287456573845421
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -3382843619774529932
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 4157545329584034262
+                }
+            ],
+            "pathId": -5861497241625842474,
+            "blockIdx": 50
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "はあ！？",
+            "enText": "Huh!",
+            "nextBlock": 52,
+            "origClipLength": 47,
+            "voiceIdx": 16,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": -3775206292001653407
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 8665041646414557527
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 7569239863390999847
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -3240415594481911556
+                }
+            ],
+            "pathId": 1630694992548860665,
+            "blockIdx": 51
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "はは、さっきから通知やまないのは、\r\nそーゆーことか。みんな勘違いしてやがるな？",
+            "enText": "So that's why the notifications haven't \nstopped since a while ago. Everyone is \nmistaken, aren't they?",
+            "nextBlock": 53,
+            "origClipLength": 71,
+            "voiceIdx": 1,
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -5052862679394474456
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -8199179526919847014
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 5168343548927316645
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 3967310500843563820
+                }
+            ],
+            "pathId": -1706458044528739542,
+            "blockIdx": 52
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "しかし、まー。俺の最大のライバルとして\r\n……とは、随分な立場からの宣言だな。",
+            "enText": "But, well. That's quite a position to \ndeclare…… as my biggest competitor.",
+            "nextBlock": 54,
+            "origClipLength": 70,
+            "voiceIdx": 2,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 9166535327524807756
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -2338996299322652538
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 6814961632406912468
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -645573983736708324
+                }
+            ],
+            "pathId": -423153938382396909,
+            "blockIdx": 53
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "けど、スカーレット。\r\nお前の本当の目標は違うだろ？",
+            "enText": "But, Scarlett. That's not \nyour real goal, is it?",
+            "nextBlock": 55,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 5485698394910721577
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 8258991815751045445
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -8467867240844560204
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 8710584672623387149
+                }
+            ],
+            "pathId": -6797174599454839232,
+            "blockIdx": 54
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "ウマ娘って聞いたら“ダイワスカーレット”\r\nって1番に思い浮かぶ存在になることだよな？",
+            "enText": "When you hear the name \"horsegirl,\" \n\"Daiwa Scarlet\" is the first thing \nthat comes to mind, right?",
+            "nextBlock": 56,
+            "origClipLength": 73,
+            "voiceIdx": 20,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -4591238228755214915
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 4912622969046359976
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -7690847180347216675
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 8102944186277391294
+                }
+            ],
+            "pathId": 8866939718117222634,
+            "blockIdx": 55
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "…………。",
+            "enText": "…………",
+            "nextBlock": 57,
+            "origClipLength": 48,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -1084025778339356992
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -56130169619704239
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 806809066936107647
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 2158530729509706746
+                }
+            ],
+            "pathId": -7815362446852481330,
+            "blockIdx": 56
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "でも今みたいにピーピー泣くんだったら\r\n1番なんか到底無理なんじゃねーの？",
+            "enText": "But if she cries like she does now, she's \nnever going to be number one, is she?",
+            "nextBlock": 58,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 918115539987822201
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -519731583183579476
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 7063819793538078107
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 8678245622935856201
+                }
+            ],
+            "pathId": 4579530477334664484,
+            "blockIdx": 57
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "しょーがねー。海外やめて有馬に出てやるか。\r\nそしたら変に気負う必要なくなるよな？",
+            "enText": "Oh well. I should quit going overseas and run \nin the Arima. Then I won't have to get all \nworked up, right?",
+            "nextBlock": 59,
+            "origClipLength": 71,
+            "voiceIdx": 21,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": -8118109764707410485
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -4368937194222923648
+                },
+                {
+                    "origLen": 33,
+                    "pathId": -8022619340935678396
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -136104253453898047
+                }
+            ],
+            "pathId": 4034249144610115556,
+            "blockIdx": 58
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "その代わり“1番”になるのは俺だけど！\r\nま、構わねぇよなー？",
+            "enText": "But I'll be the first! Well, \nthat's okay, right?",
+            "nextBlock": 60,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 1289009848589848099
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 6563012618265812483
+                },
+                {
+                    "origLen": 48,
+                    "pathId": -2072651749676442356
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 1467532615164877851
+                }
+            ],
+            "pathId": -2116220578912413601,
+            "blockIdx": 59
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "………………なにいってんのよ！",
+            "enText": "…………… What are you talking about!",
+            "nextBlock": 61,
+            "origClipLength": 54,
+            "voiceIdx": 15,
+            "animData": [
+                {
+                    "origLen": 9,
+                    "pathId": -5807375911331713870
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 4136472971929848692
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -1982481238198986227
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 9168517445955307269
+                }
+            ],
+            "pathId": -4841581511383838796,
+            "blockIdx": 60
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "誰が“1番”をアンタに渡すもんですか！\r\nアタシこそ1番のウマ娘なんだから！！",
+            "enText": "Who is going to give you the number one \nhorse! I am the number one horsegirl!",
+            "nextBlock": 62,
+            "origClipLength": 70,
+            "voiceIdx": 19,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 3189829638500276393
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -1688216324130452903
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -3073977514742563935
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -1702993350028001855
+                }
+            ],
+            "pathId": -2992049282234353048,
+            "blockIdx": 61
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "ははっ。それでこそスカーレットだ。",
+            "enText": "Haha. That's why I'm Scarlett.",
+            "nextBlock": 63,
+            "origClipLength": 56,
+            "voiceIdx": 2,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -3566665576948910381
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -2926677268832391779
+                },
+                {
+                    "origLen": 47,
+                    "pathId": -4345112495779021406
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 1825217671116834858
+                }
+            ],
+            "pathId": 1710227386627821575,
+            "blockIdx": 62
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "んじゃ。頑張って来いよ。\r\n……また、いつかな。",
+            "enText": "Well then. Good luck and go for it. I'll see \nyou…… sometime.",
+            "nextBlock": 64,
+            "origClipLength": 60,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -252473870480424121
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 5819389748432016114
+                },
+                {
+                    "origLen": 28,
+                    "pathId": -4630084304858010943
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 646460287146718059
+                }
+            ],
+            "pathId": 4485884842122524548,
+            "blockIdx": 63
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "アンタこそ。アタシ以外のヤツに\r\n負けてくんじゃないわよ、ばか。",
+            "enText": "You, too. Don't lose to anyone but me, idiot.",
+            "nextBlock": 65,
+            "origClipLength": 65,
+            "voiceIdx": 3,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 4610552633956430196
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -5027420798813240148
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 3968050827874734043
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -8938555570643125206
+                }
+            ],
+            "pathId": 4924873377268549343,
+            "blockIdx": 64
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……あーあ、会見前になんか\r\nすっごい疲れちゃった。",
+            "enText": "……Ah, I'm soooo tired before \nthe press conference.",
+            "nextBlock": 66,
+            "origClipLength": 61,
+            "voiceIdx": 60,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -1464088905789349220
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 8320986417760503092
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -4146413112581260907
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -2310089096255843113
+                },
+                {
+                    "origLen": 187,
+                    "pathId": 1596543965331128057
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -3911994587099796583
+                }
+            ],
+            "pathId": -4967961273479977261,
+            "blockIdx": 65
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "本当、アイツのせいよ。",
+            "enText": "It's really her fault.",
+            "nextBlock": 67,
+            "origClipLength": 52,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "最後までやられたな",
+                    "enText": "You're fucked to the end.",
+                    "nextBlock": 67
+                },
+                {
+                    "jpText": "最後までやられちゃったね",
+                    "enText": "They got you at the end, didn't they?",
+                    "nextBlock": 67
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": -2937671870724656496
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 2900670877755264307
+                }
+            ],
+            "pathId": 5643609395130650922,
+            "blockIdx": 66
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……ふん！",
+            "enText": "…… hmmm!",
+            "nextBlock": 68,
+            "origClipLength": 61,
+            "voiceIdx": 19,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -7382532070144466506
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -3663557964741257983
+                }
+            ],
+            "pathId": -7965760476496266366,
+            "blockIdx": 67
+        },
+        {
+            "jpName": "スタッフ",
+            "enName": "Staff",
+            "jpText": "それでは取材をスタートさせていただきます！\r\n質問がある方から挙手を――",
+            "enText": "And now we will begin our interview! Raise \nyour hand if you have any questions―",
+            "nextBlock": 69,
+            "origClipLength": 68,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 6696119731421609952
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 2490115250462339952
+                }
+            ],
+            "pathId": 8933061476781328567,
+            "blockIdx": 68
+        },
+        {
+            "jpName": "取材陣",
+            "enName": "",
+            "jpText": "はい！　ダイワスカーレットさん！！\r\n今回人気投票1位でのご参加ですが……。",
+            "enText": "Yes, sir! Ms. Daiwa Scarlet! We are pleased \nto announce your participation in the first \nplace in the popularity vote this time. ……",
+            "nextBlock": 70,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -9017371781524322645
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -2863491618246330525
+                }
+            ],
+            "pathId": 2041180472742039130,
+            "blockIdx": 69
+        },
+        {
+            "jpName": "取材陣",
+            "enName": "",
+            "jpText": "今回ライバルのウオッカさんが回避した中、\r\n1位での選出、ご自身はどう思われてますか？",
+            "enText": "How do you feel about being selected as the \nfirst runner-up when your rival, Vodka, \navoided the race this time?",
+            "nextBlock": 71,
+            "origClipLength": 73,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -621140840641946738
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -2862436817230593211
+                }
+            ],
+            "pathId": 9125010838120402793,
+            "blockIdx": 70
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……ふふっ、そんなの決まってますよ。",
+            "enText": "…… Phew, that's a given.",
+            "nextBlock": 72,
+            "origClipLength": 56,
+            "voiceIdx": 2,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -9007604056207958475
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -8336508705839456403
+                }
+            ],
+            "pathId": -3574308052452471291,
+            "blockIdx": 71
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ウオッカが出ても出なくても、\r\nアタシは1番のウマ娘になります。",
+            "enText": "Vodka or no Vodka, I will \nbe the number 1 horsegirl.",
+            "nextBlock": 73,
+            "origClipLength": 65,
+            "voiceIdx": 37,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 3156115163302690866
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 3972275726046788642
+                }
+            ],
+            "pathId": 1830674646823004784,
+            "blockIdx": 72
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "『有馬記念』のアタシを観たら、みなさんが\r\nウオッカも他のウマ娘も忘れるくらい。",
+            "enText": "When you see me in \"Arima Kinen,\" you will \nforget about Vodka and the other horsegirls.",
+            "nextBlock": 74,
+            "origClipLength": 71,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": -742414796433371471
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 8987047270231608563
+                }
+            ],
+            "pathId": 8330549304789084181,
+            "blockIdx": 73
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "それくらい素晴らしい、記憶に残る走りを\r\n『有馬記念』では見せたいと思ってます。\nだってアタシは――",
+            "enText": "That's how wonderful and memorable I want to \nshow in the Arimakinen. Because I…",
+            "nextBlock": 75,
+            "origClipLength": 77,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": 3947636407766377932
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 6965436812926245256
+                }
+            ],
+            "pathId": -4912855758460126957,
+            "blockIdx": 74
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "1番のウマ娘、ダイワスカーレットですから！",
+            "enText": "Because it's the number one \nhorsegirl, Daiwa Scarlet!",
+            "nextBlock": 76,
+            "origClipLength": 58,
+            "voiceIdx": 1,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": 954731836146663066
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 52080002579573525
+                }
+            ],
+            "pathId": 6207026545457095874,
+            "blockIdx": 75
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "ダイワスカーレットの強気な宣言は、\r\n翌日、新聞の一面を飾った。",
+            "enText": "Daiwa Scarlet's bullish declaration made the \nfront page of the newspaper the next day.",
+            "nextBlock": 77,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -7576563615816771863
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7120291743888629347
+                }
+            ],
+            "pathId": -4446490530858248475,
+            "blockIdx": 76
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "彼女はそれを見て、いつもの強気な様子を\r\n崩さずに、微笑んで見せたのだった。",
+            "enText": "She saw this and smiled at her, not losing \nher usual bullish demeanor.",
+            "nextBlock": -1,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "pathId": 5396686046490538894,
+            "blockIdx": 77
+        }
+    ],
+    "modified": 1674832109
+}

@@ -1,0 +1,925 @@
+{
+    "version": 6,
+    "bundle": "LTDMAY4YFOBSNZEHPYT74Y6ELU4AAMSX",
+    "type": "story",
+    "storyId": "501009112",
+    "title": "温泉旅行",
+    "text": [
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "たくさんのレースを勝ち抜き終えた、ある日。\r\n今日も普段通りトレーナー室で仕事していた。",
+            "enText": "One day after winning many races. \nI was working in the trainer's \noffice as usual today.",
+            "nextBlock": 2,
+            "origClipLength": 73,
+            "voiceIdx": -1,
+            "pathId": 974832458361058830,
+            "blockIdx": 1
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "今や“1番のウマ娘”ダイワスカーレットの\r\nトレーナーとして、講演会まで出る立場だ。",
+            "enText": "She is now in a position to give lectures as \nthe trainer of the \"number one horsegirl,\" \nDaiwa Scarlet.",
+            "nextBlock": 3,
+            "origClipLength": 72,
+            "voiceIdx": -1,
+            "pathId": -449036607301888773,
+            "blockIdx": 2
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "机の上にはたくさんの書類の山が\r\n積み重なっている――期限は遠いが、\n今後のためには今夜は徹夜して……。",
+            "enText": "Lots of paperwork piled up on my \ndesk―deadlines are far away, but For the \nfuture, I'm going to stay up all night \ntonight and check ……",
+            "nextBlock": 4,
+            "origClipLength": 78,
+            "voiceIdx": -1,
+            "pathId": -6964075883572021495,
+            "blockIdx": 3
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "トレーナー！　アレ！！\r\nどこにしまったの！？",
+            "enText": "Trainer! That thing! Where did you put it?",
+            "nextBlock": 5,
+            "origClipLength": 60,
+            "voiceIdx": 56,
+            "choices": [
+                {
+                    "jpText": "アレ？",
+                    "enText": "Oh?",
+                    "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 5494297124971041278
+                },
+                {
+                    "origLen": 42,
+                    "pathId": -1136923095934812874
+                }
+            ],
+            "pathId": 4081962938743953886,
+            "blockIdx": 4
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "アレよ、アレ！！\r\n商店街でもらって、アンタに預けた――",
+            "enText": "That's the thing! I got it at the mall and \nleft it with you…",
+            "nextBlock": 6,
+            "origClipLength": 63,
+            "voiceIdx": 70,
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": -7970138993618661346
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -3355817137973926443
+                }
+            ],
+            "pathId": 7711671350270364276,
+            "blockIdx": 5
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "……ダイワスカーレットから\r\n預かっていたものといえば。",
+            "enText": "Speaking of…… what Daiwa Scarlet \nentrusted me with.",
+            "nextBlock": 7,
+            "origClipLength": 63,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -5345997697181145909
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -4625990300351578251
+                }
+            ],
+            "pathId": -8219279854212212409,
+            "blockIdx": 6
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "とりあえずアンタが預かっててよ。\r\nなんか見るたびに誘惑されそうだし。",
+            "enText": "You should keep it for now. I feel tempted \nevery time I see it.",
+            "nextBlock": 8,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": 3534660193101411594
+                },
+                {
+                    "origLen": 162,
+                    "pathId": 383975054387286784
+                }
+            ],
+            "pathId": 6719806239742589014,
+            "blockIdx": 7
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "あ、でも絶対に勝手に使わないでよ！？\r\nそれアタシが当てたんだから！　わかった！？",
+            "enText": "Oh, but don't ever use it without permission! \nI won that one! Understood!",
+            "nextBlock": 9,
+            "origClipLength": 71,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -5306186487529582502
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 8964473755103170233
+                }
+            ],
+            "pathId": -4630861397063118315,
+            "blockIdx": 8
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "温泉旅行券！\r\n使用期限は今月までだったでしょ！？",
+            "enText": "Hot spring travel vouchers! You had until \nthis month to use them!",
+            "nextBlock": 10,
+            "origClipLength": 61,
+            "voiceIdx": 52,
+            "choices": [
+                {
+                    "jpText": "そうだったっけ",
+                    "enText": "I don't remember that.",
+                    "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -576811366301394412
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -149013051950159585
+                },
+                {
+                    "origLen": 115,
+                    "pathId": 3738235432567380947
+                },
+                {
+                    "origLen": 159,
+                    "pathId": -4336640489299198368
+                }
+            ],
+            "pathId": -5329408196429163233,
+            "blockIdx": 9
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "んもー！　なにのんびりしてるのよ！！",
+            "enText": "Oh, no! What are you doing?",
+            "nextBlock": 11,
+            "origClipLength": 56,
+            "voiceIdx": 16,
+            "animData": [
+                {
+                    "origLen": 9,
+                    "pathId": 268358428937669604
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 8646614472966219158
+                },
+                {
+                    "origLen": 9,
+                    "pathId": 8356911467224480776
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -4554518005464529950
+                }
+            ],
+            "pathId": -4830010084176359741,
+            "blockIdx": 10
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ほら、急いで券を探すっ。あーもう！\r\nアンタの机、書類だらけじゃない！",
+            "enText": "Here, hurry up and look for your ticket. Oh, \nmy God! Your desk is covered with papers!",
+            "nextBlock": 12,
+            "origClipLength": 67,
+            "voiceIdx": 36,
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": -1867036058677033993
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -2007017100120812697
+                },
+                {
+                    "origLen": 38,
+                    "pathId": 4126045526463793832
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 1128758789682706678
+                }
+            ],
+            "pathId": 8264303843876779021,
+            "blockIdx": 11
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "アタシも手伝ってあげるから！\r\nほら準備して、行くわよっ！！",
+            "enText": "I'll help you! Come on, get ready, let's go!",
+            "nextBlock": 13,
+            "origClipLength": 64,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": -6366693814153720863
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -7515768895756033832
+                },
+                {
+                    "origLen": 37,
+                    "pathId": -7912606066098443191
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 682088272966255624
+                }
+            ],
+            "pathId": -5615027759139363438,
+            "blockIdx": 12
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "――いざ、温泉にっ！！",
+            "enText": "―Now, to the hot springs!",
+            "nextBlock": 14,
+            "origClipLength": 52,
+            "voiceIdx": 10,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 4335798872634155403
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 1958671492678292
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 8861169547805517944
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 7387704145833168035
+                }
+            ],
+            "pathId": 4081046068702347989,
+            "blockIdx": 13
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "そしてダイワスカーレットに\r\n急かされるまま、あれよあれよと\n旅行の準備をさせられ――",
+            "enText": "And then, Daiwa Scarlet rushed me \ninto making preparations for the trip, \nand, voila, I was on my way.",
+            "nextBlock": 15,
+            "origClipLength": 73,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -5681178403476823352
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 8938966737261011922
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -7017500527617064660
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 4022654492602763725
+                }
+            ],
+            "pathId": 5566214061284907170,
+            "blockIdx": 14
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "入浴中……。",
+            "enText": "Bathing. ……",
+            "nextBlock": 16,
+            "origClipLength": 240,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 8204385117537351660
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 5448611616461720768
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -3673259548402890179
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 1682438298018045228
+                }
+            ],
+            "pathId": -2002651509218343965,
+            "blockIdx": 15
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "んんぅ～……はぁ……。\r\n気持ちいいお湯だったぁ～……。",
+            "enText": "Mmmm～…… haha…… That was nice hot water～……",
+            "nextBlock": 17,
+            "origClipLength": 76,
+            "voiceIdx": 59,
+            "choices": [
+                {
+                    "jpText": "満足したみたいだね",
+                    "enText": "You seem satisfied.",
+                    "nextBlock": 17
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": -5863533978738298463
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -1199094832625911725
+                }
+            ],
+            "pathId": 7948446709238204940,
+            "blockIdx": 16
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ふふっ、まあね……って。",
+            "enText": "Phew, well…… I guess.",
+            "nextBlock": 18,
+            "origClipLength": 52,
+            "voiceIdx": 0,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 6789577445607081748
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -8647826097879181954
+                }
+            ],
+            "pathId": 2091156272755824125,
+            "blockIdx": 17
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "アンタはどうだったの？\r\nゆっくりできた？　しっかり羽も伸ばせた？",
+            "enText": "How was your day? Did you take your time? Did \nyou get to stretch your wings?",
+            "nextBlock": 19,
+            "origClipLength": 66,
+            "voiceIdx": 34,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 6806014044074089115
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -2099477392805112673
+                }
+            ],
+            "pathId": 2195648021680877806,
+            "blockIdx": 18
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "……とはいえ、\r\n突然温泉に連れてこられた状況だ。\nなにがなんだか、という状態が正しく――",
+            "enText": "Even though the site is…… we were suddenly \nbrought to a hot spring. The state of \"what \nthe heck is that?\" is the correct―",
+            "nextBlock": 20,
+            "origClipLength": 72,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "えーっと……",
+                    "enText": "Let's see… ……",
+                    "nextBlock": 20
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -8034444550702907246
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -3882028723954750587
+                }
+            ],
+            "pathId": 5868341393213959706,
+            "blockIdx": 19
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "…………。\r\n……むぅ。",
+            "enText": "……………… mmm.",
+            "nextBlock": 21,
+            "origClipLength": 52,
+            "voiceIdx": 15,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -1090587398885349144
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 7640433724726695568
+                }
+            ],
+            "pathId": -7402544391957228580,
+            "blockIdx": 20
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……確かに急に連れ出すことになったし、\r\n申し訳ないとは思ってるわ。",
+            "enText": "…… certainly took you out on short notice, \nand I'm sorry about that.",
+            "nextBlock": 22,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 8641500807620922160
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -7938040835855793911
+                }
+            ],
+            "pathId": -9081732417387646826,
+            "blockIdx": 21
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "けど、アンタも悪いのよ？",
+            "enText": "But it's your fault too, you know?",
+            "nextBlock": 23,
+            "origClipLength": 66,
+            "voiceIdx": 19,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -3988191057520637675
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -8035147389361863981
+                }
+            ],
+            "pathId": 528185779402211833,
+            "blockIdx": 22
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "トゥインクル・シリーズも一段落して、\r\nようやく温泉に行ける――って思ったのに。",
+            "enText": "I thought I could finally go to the hot \nsprings after the Twinkle series was over.",
+            "nextBlock": 24,
+            "origClipLength": 71,
+            "voiceIdx": -1,
+            "coloredText": [
+                {
+                    "jpText": "トゥインクル・シリーズ",
+                    "enText": "Twinkle Series"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": -3340268608519435888
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 3299786888933922330
+                }
+            ],
+            "pathId": -4700749681497410240,
+            "blockIdx": 23
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "アンタ、全然暇そうじゃないんだもん。",
+            "enText": "Anta, you don't look bored at all.",
+            "nextBlock": 25,
+            "origClipLength": 56,
+            "voiceIdx": 60,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": 1045456050656520145
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 8059027109702278442
+                }
+            ],
+            "pathId": 5221058412731872016,
+            "blockIdx": 24
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "そりゃ“1番のウマ娘を育てたトレーナー”\r\nとして、人一倍仕事が来てるのはわかるわ。",
+            "enText": "As the \"trainer who raised the best \nhorsema girl,\" I can see why she gets \nmore work than anyone else.",
+            "nextBlock": 26,
+            "origClipLength": 72,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": 1102991832222743603
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 6524045862977134221
+                }
+            ],
+            "pathId": -428584909723925973,
+            "blockIdx": 25
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "だけどさ……日々大変そうで疲弊してく\r\nアンタを見るにつれて、さらにムカついた。",
+            "enText": "But as I see you…… getting more and more \nexhausted every day, I'm even more pissed off.",
+            "nextBlock": 27,
+            "origClipLength": 71,
+            "voiceIdx": 86,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -2058979973609546292
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 8284095482804190729
+                }
+            ],
+            "pathId": 7977147226657605121,
+            "blockIdx": 26
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "なに1人で疲れようとしてるんだろってさ。\r\nせっかく今まで、アタシと頑張ってきたのに。",
+            "enText": "Why are you trying to tire yourself \nout by yourself? I've worked so \nhard with you until now.",
+            "nextBlock": 28,
+            "origClipLength": 73,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 1557490332936967424
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -2485668431216242665
+                }
+            ],
+            "pathId": 4198191631525982768,
+            "blockIdx": 27
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……そんなにアタシ頼りない？",
+            "enText": "…… so unreliable?",
+            "nextBlock": 29,
+            "origClipLength": 54,
+            "voiceIdx": 4,
+            "choices": [
+                {
+                    "jpText": "そんなことは……",
+                    "enText": "You can do that at ……",
+                    "nextBlock": 29
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 6,
+                    "pathId": 633664779398578272
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 4125152804597315579
+                }
+            ],
+            "pathId": -7353748081813426171,
+            "blockIdx": 28
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ならいいじゃん。アタシにも、\r\nアンタのことを大事にさせてよ。",
+            "enText": "Then why don't you let me take care of you. \nLet me take care of you too.",
+            "nextBlock": 30,
+            "origClipLength": 65,
+            "voiceIdx": 74,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": -2457044608977411404
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 3505178602061068034
+                }
+            ],
+            "pathId": 5668708817254557689,
+            "blockIdx": 29
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "たまにはアンタを\r\n労わらせてくれてもいいじゃない。",
+            "enText": "You should be allowed to work on yourself \nonce in a while.",
+            "nextBlock": 31,
+            "origClipLength": 61,
+            "voiceIdx": 52,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -8457908245747738452
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 1547888628997721303
+                }
+            ],
+            "pathId": -1406581559852154562,
+            "blockIdx": 30
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "――その時、彼女がこの温泉旅行券を\r\n当てたときの言葉を思い出した。",
+            "enText": "―I remembered what she said when she won this \nhot spring trip coupon.",
+            "nextBlock": 32,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -4740423986985416619
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -3697057827076866739
+                }
+            ],
+            "pathId": -1272849594060838192,
+            "blockIdx": 31
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ええ。だって今は大事なシーズン中だもの。\r\n羽を伸ばすには、まだお互い早いだろうし。",
+            "enText": "Yes, because we are in the middle of an \nimportant season. Because we are in the \nmiddle of an important season. It's too early \nfor both of us to stretch our wings.",
+            "nextBlock": 33,
+            "origClipLength": 72,
+            "voiceIdx": 37,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 534771692459924624
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -3497684506428631562
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -2173501846781587581
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 4210916913103569718
+                }
+            ],
+            "pathId": -2590953593951376528,
+            "blockIdx": 32
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "せっかくならとことんゆっくりしたいし、\r\n……させてあげたいしね。",
+            "enText": "I'd like to take my time and let…… do that.",
+            "nextBlock": 34,
+            "origClipLength": 66,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": -5207506016542383367
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 4419240926487028349
+                }
+            ],
+            "pathId": 3666596783718985467,
+            "blockIdx": 33
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……なによ。",
+            "enText": "…… What is it?",
+            "nextBlock": 35,
+            "origClipLength": 48,
+            "voiceIdx": 15,
+            "choices": [
+                {
+                    "jpText": "今日は君に甘えてゆっくりするよ",
+                    "enText": "I'm going to take it easy on you today.",
+                    "nextBlock": 35
+                },
+                {
+                    "jpText": "今日は貴方に甘えてゆっくりするよ",
+                    "enText": "I'm going to take it easy on you today.",
+                    "nextBlock": 35
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 140,
+                    "pathId": -665737244619637696
+                },
+                {
+                    "origLen": 157,
+                    "pathId": 2047327465874909843
+                },
+                {
+                    "origLen": 44,
+                    "pathId": -7987878208179039306
+                },
+                {
+                    "origLen": 44,
+                    "pathId": 1451761630788530360
+                }
+            ],
+            "pathId": -2428122918677990083,
+            "blockIdx": 34
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "…………ふんっ。\r\nわかったならそれでいいのよ。",
+            "enText": "……… Hmmm. If you get it, that's fine.",
+            "nextBlock": 36,
+            "origClipLength": 61,
+            "voiceIdx": 19,
+            "animData": [
+                {
+                    "origLen": 10,
+                    "pathId": 3074209682014940985
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 5915535884024418889
+                }
+            ],
+            "pathId": 973197051406588649,
+            "blockIdx": 35
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ほら、今日は温泉を楽しむ日！\r\n仕事もぜーんぶ投げ出してここに来たんだし！",
+            "enText": "Look, today is the day to enjoy the hot \nsprings! I gave up all my work to come here!",
+            "nextBlock": 37,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -307629863707506458
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 3751523789895350547
+                }
+            ],
+            "pathId": 414228223764392430,
+            "blockIdx": 36
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "アンタが満足するまで解放してあげないから！\r\nふふん、目一杯ゆっくりしなさいっ！",
+            "enText": "I won't let you go until you're satisfied! Go \nahead and take all the time you need!",
+            "nextBlock": 38,
+            "origClipLength": 71,
+            "voiceIdx": 6,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 8381848040951732843
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -2000790778161707762
+                }
+            ],
+            "pathId": 3164405514704082263,
+            "blockIdx": 37
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "そして彼女のペースに巻き込まれたまま、\r\n久々の休みを満喫し……。",
+            "enText": "And while I was caught up in her pace, I \nenjoyed my long overdue vacation. ……",
+            "nextBlock": 39,
+            "origClipLength": 68,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 1521184101846239678
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 8205735402860660211
+                }
+            ],
+            "pathId": -7626402879584176357,
+            "blockIdx": 38
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "――後日、すっかり疲れが取れた状態で、\r\n仕事ができたのは言うまでもないことだ。\n……もちろん、2人で。",
+            "enText": "―not to mention the fact that I was able to \nwork later in the day, completely exhausted. \n…… of course, just the two of us.",
+            "nextBlock": 40,
+            "origClipLength": 79,
+            "voiceIdx": -1,
+            "pathId": -352079078873838280,
+            "blockIdx": 39
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "ダイワスカーレットとの間に、\r\nかけがえのない絆を感じた\nひとときだった……。",
+            "enText": "It was a time when I felt an irreplaceable \nbond with Daiwa Scarlet. ……",
+            "nextBlock": -1,
+            "origClipLength": 71,
+            "voiceIdx": -1,
+            "pathId": 7546878743583977338,
+            "blockIdx": 40
+        }
+    ],
+    "modified": 1674832108
+}

@@ -1,0 +1,656 @@
+{
+    "version": 6,
+    "bundle": "M4J2UW3U2ZCMTB6VBPVG3EQRQ5YIVIFE",
+    "type": "story",
+    "storyId": "501009107",
+    "title": "バレンタイン",
+    "text": [
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "バレンタインの日。\r\n朝からダイワスカーレットに呼び出された。",
+            "enText": "Valentine's Day. Daiwa Scarlet \ncalled me in the morning.",
+            "nextBlock": 2,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 9222262956182541623
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 1140557351283465816
+                }
+            ],
+            "pathId": 3907461030122348015,
+            "blockIdx": 1
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "うん、予定通りね。\r\nそれじゃ、行きましょっか。",
+            "enText": "Yes, as planned. Let's go, then.",
+            "nextBlock": 3,
+            "origClipLength": 60,
+            "voiceIdx": 6,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": -964151284343916647
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 1138645238122870768
+                }
+            ],
+            "pathId": -7334186426527768482,
+            "blockIdx": 2
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "トレーニング用品の買い出しに！",
+            "enText": "Go shopping for training supplies!",
+            "nextBlock": 4,
+            "origClipLength": 54,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "トレーニング用品？",
+                    "enText": "Training equipment?",
+                    "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 6,
+                    "pathId": -2340780397924869310
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -6495886611555061271
+                }
+            ],
+            "pathId": 6232244423778041617,
+            "blockIdx": 3
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……？　当然でしょ？\r\nだって目標を決めたばかりじゃない。",
+            "enText": "……? Isn't it obvious? Because \nwe didn't just set a goal.",
+            "nextBlock": 5,
+            "origClipLength": 63,
+            "voiceIdx": 20,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -1849087375660642223
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -3363516947562472249
+                }
+            ],
+            "pathId": 3594600080025733384,
+            "blockIdx": 4
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "それにしても今日は人が多いわね。\r\nなんか行列もできてるみたいだし。",
+            "enText": "But still, there are a lot of people here \ntoday. There seems to be a line of people \nwaiting in line.",
+            "nextBlock": 6,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "バレンタインだからね",
+                    "enText": "It's Valentine's Day.",
+                    "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": -2945773409503196235
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 7677629143721185646
+                }
+            ],
+            "pathId": -4661012679562180723,
+            "blockIdx": 5
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ああ、なるほど。\r\nこれはチョコを買う行列ってこと――",
+            "enText": "Oh, I see. This means a line to buy chocolate―",
+            "nextBlock": 7,
+            "origClipLength": 62,
+            "voiceIdx": 38,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -1826042736010112452
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -3655928469728015153
+                }
+            ],
+            "pathId": 3852569761181796251,
+            "blockIdx": 6
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……あ。",
+            "enText": "…… Oh.",
+            "nextBlock": 8,
+            "origClipLength": 47,
+            "voiceIdx": 76,
+            "choices": [
+                {
+                    "jpText": "どうした？",
+                    "enText": "What's up?",
+                    "nextBlock": 8
+                },
+                {
+                    "jpText": "どうしたの？",
+                    "enText": "What's wrong?",
+                    "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": 2129618242665677235
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -3306641747651037205
+                }
+            ],
+            "pathId": 8978100822425283007,
+            "blockIdx": 7
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……な、なんでもないわ！\r\n早く買いに行きましょ！",
+            "enText": "…… it's nothing! Let's go buy some!",
+            "nextBlock": 9,
+            "origClipLength": 61,
+            "voiceIdx": 14,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -1802001990513080327
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 654129969864738034
+                }
+            ],
+            "pathId": -6132000216211478111,
+            "blockIdx": 8
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "そして、ダイワスカーレットの\r\n買い物に付き合うことになり――",
+            "enText": "And then I had to go shopping \nfor Daiwa Scarlet.",
+            "nextBlock": 10,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": -5650354325469162082
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -4601443589585232687
+                }
+            ],
+            "pathId": -4210620316183477108,
+            "blockIdx": 9
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ふぅ……結構買ったわね。\r\nなんだかんだでこんな時間だわ。",
+            "enText": "Whew…… I bought quite a bit. \nWhat a time to be here.",
+            "nextBlock": 11,
+            "origClipLength": 63,
+            "voiceIdx": 59,
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": 1544932705972465752
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 2264716763253658444
+                }
+            ],
+            "pathId": -1768221020435862745,
+            "blockIdx": 10
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "それじゃ、飲み物買ってきてあげるから。\r\nアンタはここで待ってなさい。",
+            "enText": "I'll go get you a drink. You wait here.",
+            "nextBlock": 12,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "いいのか？",
+                    "enText": "Are you sure?",
+                    "nextBlock": 12
+                },
+                {
+                    "jpText": "いいの？",
+                    "enText": "Are you sure?",
+                    "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -7771316570093612279
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -809848191915849734
+                }
+            ],
+            "pathId": -8083861345807410215,
+            "blockIdx": 11
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……いいわよ。一応、今日の買い物に\r\n付き合ってくれたお礼だもの。",
+            "enText": "…… is fine. In case you didn't know, it's my \nway of saying thank you for accompanying me \non today's shopping spree.",
+            "nextBlock": 13,
+            "origClipLength": 66,
+            "voiceIdx": 19,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 4983568065071977776
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 932004507113732732
+                }
+            ],
+            "pathId": -567810903823802752,
+            "blockIdx": 12
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "そしてダイワスカーレットはレジに向かい――",
+            "enText": "And Daiwa Scarlet heads to the cash register―",
+            "nextBlock": 14,
+            "origClipLength": 58,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 9055271085172129626
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 2882651894011895530
+                }
+            ],
+            "pathId": 1591618669064976496,
+            "blockIdx": 13
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "（――コトン）",
+            "enText": "(―Coton)",
+            "nextBlock": 15,
+            "origClipLength": 49,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 164,
+                    "pathId": -8172902307971210678
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 1586753305902293967
+                }
+            ],
+            "pathId": 2680769428175479729,
+            "blockIdx": 14
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "はい、ココア。\r\n疲れた時には甘いものでしょ。",
+            "enText": "Yes, cocoa. When you are tired, you need \nsomething sweet.",
+            "nextBlock": 16,
+            "origClipLength": 60,
+            "voiceIdx": 92,
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": 3330272872201315131
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -1499126530645741355
+                }
+            ],
+            "pathId": -7061563067922460602,
+            "blockIdx": 15
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "一応、カカオも入ってるし、\r\nチョコ扱いでもいいんじゃない？",
+            "enText": "In case you're wondering, there's some cacao \nin it, so why not treat it as chocolate?",
+            "nextBlock": 17,
+            "origClipLength": 64,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "バレンタインの？",
+                    "enText": "Valentine's Day?",
+                    "nextBlock": 17
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 4942045479194919738
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 4754842420171153611
+                }
+            ],
+            "pathId": 4785267206250727311,
+            "blockIdx": 16
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……ふん、間に合わせで悪かったわね。",
+            "enText": "…… sorry for the delay.",
+            "nextBlock": 18,
+            "origClipLength": 56,
+            "voiceIdx": 15,
+            "choices": [
+                {
+                    "jpText": "その気持ちが嬉しいよ",
+                    "enText": "I'm glad you feel that way.",
+                    "nextBlock": 18
+                },
+                {
+                    "jpText": "その気持ちが嬉しい",
+                    "enText": "I'm glad you feel that way.",
+                    "nextBlock": 18
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 5,
+                    "pathId": 1241168607634141504
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -1384823868086190173
+                }
+            ],
+            "pathId": -2816459709254922093,
+            "blockIdx": 17
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……あっそ。",
+            "enText": "…… Oh yeah.",
+            "nextBlock": 19,
+            "origClipLength": 48,
+            "voiceIdx": 4,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 8478114878838704733
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 4994113555996278417
+                }
+            ],
+            "pathId": -1178976340334662766,
+            "blockIdx": 18
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "その日飲んだココアは、\r\nいつもよりも甘く感じたのだった。",
+            "enText": "The cocoa she drank that day \nwas sweeter than usual.",
+            "nextBlock": -1,
+            "origClipLength": 63,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 6776737861065045017
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -6039464174945075712
+                }
+            ],
+            "pathId": 802734909322920429,
+            "blockIdx": 19
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "はい、コーヒー。それと……。",
+            "enText": "Yes, coffee. And ……",
+            "nextBlock": 21,
+            "origClipLength": 54,
+            "voiceIdx": 92,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": -7660152354611706666
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -836820791248035982
+                }
+            ],
+            "pathId": -1110644177590085898,
+            "blockIdx": 20
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "…………。",
+            "enText": "…………",
+            "nextBlock": 22,
+            "origClipLength": 48,
+            "voiceIdx": 35,
+            "choices": [
+                {
+                    "jpText": "どうしたの？",
+                    "enText": "What's wrong?",
+                    "nextBlock": 22
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": 7726783344132063200
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3274975639628574278
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -7149147769099288406
+                }
+            ],
+            "pathId": -8298257827545195496,
+            "blockIdx": 21
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……これ。",
+            "enText": "…… this.",
+            "nextBlock": 23,
+            "origClipLength": 68,
+            "voiceIdx": 157,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 7720165546057344897
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -9030577081456124396
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -6924198284885166855
+                }
+            ],
+            "pathId": 787958182430783176,
+            "blockIdx": 22
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……そのコーヒー、\r\nちょっと苦いみたいだから。",
+            "enText": "…… that coffee seems to be a little bitter.",
+            "nextBlock": 24,
+            "origClipLength": 60,
+            "voiceIdx": 34,
+            "animData": [
+                {
+                    "origLen": 179,
+                    "pathId": -3731517401805928373
+                },
+                {
+                    "origLen": 193,
+                    "pathId": 3806488564218984428
+                }
+            ],
+            "pathId": 7459058339304518449,
+            "blockIdx": 23
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "甘さが足りないって時用に、\r\nチョコレートも買ってきたの。",
+            "enText": "I also bought some chocolates for those times \nwhen you just don't want enough sweetness.",
+            "nextBlock": 25,
+            "origClipLength": 63,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -6038784862761242743
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 1858371489703223451
+                }
+            ],
+            "pathId": -7073545873044386471,
+            "blockIdx": 24
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……必要ならそのコーヒーに溶かせば？\r\n別にそのまま食べてもいいけど。",
+            "enText": "…… Dissolve it in that coffee if you need it. \nI don't mind eating it as is.",
+            "nextBlock": 26,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "ありがとう",
+                    "enText": "Thank you.",
+                    "nextBlock": 26
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -4158233944197387403
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 298778868442464957
+                }
+            ],
+            "pathId": 4660257729988636057,
+            "blockIdx": 25
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……どーいたしまして。",
+            "enText": "…… You're welcome.",
+            "nextBlock": 27,
+            "origClipLength": 52,
+            "voiceIdx": 74,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 5360108437703257659
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 5197165356227572737
+                }
+            ],
+            "pathId": -1434418857747701421,
+            "blockIdx": 26
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "そして苦くて甘いバレンタインを\r\nダイワスカーレットと過ごしたのだった。",
+            "enText": "And I spent a bitter-sweet Valentine's Day \nwith Daiwa Scarlet.",
+            "nextBlock": -1,
+            "origClipLength": 68,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -1323730329273393945
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 364049133913936564
+                }
+            ],
+            "pathId": 7837063027248369600,
+            "blockIdx": 27
+        }
+    ],
+    "modified": 1674832108
+}

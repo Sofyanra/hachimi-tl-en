@@ -1,0 +1,1498 @@
+{
+    "version": 6,
+    "bundle": "5WK7IUZVH37X6C6UMKBZWEJFEPTUJ4FL",
+    "type": "story",
+    "storyId": "501009104",
+    "title": "夏合宿（2年目）にて",
+    "text": [
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "夏合宿中のレクリエーションの一環として\r\nグループでのカレー作りが行われたのだが――",
+            "enText": "As part of the recreational activities during \nthe summer camp, the group made curry.",
+            "nextBlock": 2,
+            "origClipLength": 72,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -5186730465029895198
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3591527838284658478
+                }
+            ],
+            "pathId": -4831122448582704405,
+            "blockIdx": 1
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ええっと……それじゃあ、よろしくね。\r\nテイオー、マックイーンさん。",
+            "enText": "Let's see.…… Okay, well, nice to meet you. \nTeo, Ms. McQueen.",
+            "nextBlock": 3,
+            "origClipLength": 67,
+            "voiceIdx": 34,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -1735276433613507293
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5405678399404377188
+                }
+            ],
+            "pathId": -849152229921902777,
+            "blockIdx": 2
+        },
+        {
+            "jpName": "メジロマックイーン",
+            "enName": "Mejiro McQueen",
+            "jpText": "ええ、お任せください。メジロ家の\r\nウマ娘として完璧なカレーを作りますわ。",
+            "enText": "Yes, leave it to me. I'll make the perfect \ncurry as the horsegirl of the Mejiro family.",
+            "nextBlock": 4,
+            "origClipLength": 69,
+            "voiceIdx": 37,
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": -3464177099241782878
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 7623976993047305504
+                },
+                {
+                    "origLen": 187,
+                    "pathId": 840218606894858906
+                },
+                {
+                    "origLen": 163,
+                    "pathId": 8589155054374015484
+                },
+                {
+                    "origLen": 172,
+                    "pathId": 4436288920888158352
+                },
+                {
+                    "origLen": 222,
+                    "pathId": 6860480288842852369
+                }
+            ],
+            "pathId": 7229562418208839542,
+            "blockIdx": 3
+        },
+        {
+            "jpName": "トウカイテイオー",
+            "enName": "Tokai Teio",
+            "jpText": "なら、ボクも！　マックイーンに\r\n負けない最高のカレーを作っちゃうんだから！",
+            "enText": "Then I'm in! I'll make the best curry that \nMcQueen ever made!",
+            "nextBlock": 5,
+            "origClipLength": 69,
+            "voiceIdx": 10,
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -3404989467412647194
+                },
+                {
+                    "origLen": 107,
+                    "pathId": 3248203521122459562
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 996202446782812176
+                },
+                {
+                    "origLen": 107,
+                    "pathId": 1599619955254851723
+                }
+            ],
+            "pathId": -7107757503294039132,
+            "blockIdx": 4
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……ふふっ。よかった、この2人で。\r\n安心してカレーを作れるわねっ♪",
+            "enText": "…… Phew. Thank goodness it's just the two of \nus. I can make curry with no worries… ♪",
+            "nextBlock": 6,
+            "origClipLength": 67,
+            "voiceIdx": 0,
+            "animData": [
+                {
+                    "origLen": 151,
+                    "pathId": 7540953004054763688
+                },
+                {
+                    "origLen": 178,
+                    "pathId": 3162730957373642374
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 3980536292720889873
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -5599176171656484317
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -5244290376105046299
+                },
+                {
+                    "origLen": 107,
+                    "pathId": 3099397685158218256
+                }
+            ],
+            "pathId": 6284665594476420884,
+            "blockIdx": 5
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "マックイーンさーん、お米研ぎ終わった？",
+            "enText": "McQueen, have you finished grinding the rice?",
+            "nextBlock": 7,
+            "origClipLength": 57,
+            "voiceIdx": 52,
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": -3995775093799152669
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -2563653687608444384
+                },
+                {
+                    "origLen": 205,
+                    "pathId": 2875080226617179440
+                },
+                {
+                    "origLen": 214,
+                    "pathId": 2136030958148644103
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 7450963390196162132
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -8367833353433575699
+                }
+            ],
+            "pathId": -5398181294117722467,
+            "blockIdx": 6
+        },
+        {
+            "jpName": "メジロマックイーン",
+            "enName": "Mejiro McQueen",
+            "jpText": "ええ！　今308粒目を、\r\n洗い終わったところですわ！",
+            "enText": "Yes! I just finished washing the 308th grain!",
+            "nextBlock": 8,
+            "origClipLength": 62,
+            "voiceIdx": 47,
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": -3430322772710120469
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 6350788478923661109
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 3300312957180492881
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -921355756223753296
+                }
+            ],
+            "pathId": 1579860325498747432,
+            "blockIdx": 7
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……え？",
+            "enText": "…… What?",
+            "nextBlock": 9,
+            "origClipLength": 47,
+            "voiceIdx": 20,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 7613265309713665426
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -7640797408609121406
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 7403928773074605771
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 6569143680790412243
+                }
+            ],
+            "pathId": -6448682969224295170,
+            "blockIdx": 8
+        },
+        {
+            "jpName": "メジロマックイーン",
+            "enName": "Mejiro McQueen",
+            "jpText": "目指すのは完璧なカレー。ならばひと粒ずつ、\r\n丹精込めてお米を洗うのが当然でしょう？",
+            "enText": "The goal is the perfect curry. \nThen why not wash the rice one \nby one with care and attention?",
+            "nextBlock": 10,
+            "origClipLength": 72,
+            "voiceIdx": 62,
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": -8740765312234513668
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -3882446518955136682
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -4947845296351348631
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 2418385808857290772
+                }
+            ],
+            "pathId": -7962016526668574017,
+            "blockIdx": 9
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……ええ？",
+            "enText": "…… yeah?",
+            "nextBlock": 11,
+            "origClipLength": 48,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -5619672348084331659
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 5556623905333748298
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 2233558862192144285
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 2049173147327500365
+                }
+            ],
+            "pathId": -7917070673370601162,
+            "blockIdx": 10
+        },
+        {
+            "jpName": "トウカイテイオー",
+            "enName": "Tokai Teio",
+            "jpText": "いやいや、マックイーン。それじゃあ\r\nいつになってもカレーが食べられないよ。",
+            "enText": "No, no, no, McQueen. Then I won't be able to \neat curry anytime soon.",
+            "nextBlock": 12,
+            "origClipLength": 69,
+            "voiceIdx": 20,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -5332879984658748906
+                },
+                {
+                    "origLen": 29,
+                    "pathId": -6223535359327884513
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8202005392470135657
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -1240024775186150068
+                },
+                {
+                    "origLen": 173,
+                    "pathId": 2888354102592220334
+                },
+                {
+                    "origLen": 221,
+                    "pathId": 65208725029128126
+                }
+            ],
+            "pathId": -3503798220771609807,
+            "blockIdx": 11
+        },
+        {
+            "jpName": "トウカイテイオー",
+            "enName": "Tokai Teio",
+            "jpText": "へへっ、ボクはもう1000粒洗ったもんね！",
+            "enText": "Hehe, I've already washed 1,000 grains!",
+            "nextBlock": 13,
+            "origClipLength": 92,
+            "voiceIdx": 62,
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": -4372263552382980751
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -98917630228463189
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 4244985475392912736
+                },
+                {
+                    "origLen": 123,
+                    "pathId": 1099023248182796253
+                }
+            ],
+            "pathId": 7437787935157149187,
+            "blockIdx": 12
+        },
+        {
+            "jpName": "メジロマックイーン",
+            "enName": "Mejiro McQueen",
+            "jpText": "なっ！？　くぅ……私としたことが、\r\nテイオーさんに負けるだなんて……っ！",
+            "enText": "What? Damn…… what I did \nto be beaten by Teio ……!",
+            "nextBlock": 14,
+            "origClipLength": 69,
+            "voiceIdx": 26,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": 8235772534773466865
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -3332828073078302838
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 1795769699985511709
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -8616590351172028610
+                }
+            ],
+            "pathId": -3085372309649858314,
+            "blockIdx": 13
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "…………。",
+            "enText": "…………",
+            "nextBlock": 15,
+            "origClipLength": 48,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": 4209376964681696840
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 6270315627863594303
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 4757896819908681771
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 7492492468039790569
+                },
+                {
+                    "origLen": 33,
+                    "pathId": -8887719808058191063
+                },
+                {
+                    "origLen": 34,
+                    "pathId": 7498560312611464480
+                }
+            ],
+            "pathId": 167396826519904377,
+            "blockIdx": 14
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "わかった。お米はアタシが洗うわ。",
+            "enText": "I'll wash the rice. I'll wash the rice.",
+            "nextBlock": 16,
+            "origClipLength": 55,
+            "voiceIdx": 11,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 1952541296910957229
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 1909107320910662172
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -354346591949022579
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -39134622674258461
+                }
+            ],
+            "pathId": -4717116520180500191,
+            "blockIdx": 15
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "だからテイオーとマックイーンさんは、\r\nジャガイモの皮むきをお願いしてもいい？",
+            "enText": "So, Teo and Ms. McQueen, may I ask you to \npeel the potatoes?",
+            "nextBlock": 17,
+            "origClipLength": 70,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": 4056311582657780640
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -8598474609539656725
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -5867507011930324457
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -8151587606444523463
+                }
+            ],
+            "pathId": 7768026066452013906,
+            "blockIdx": 16
+        },
+        {
+            "jpName": "メジロマックイーン",
+            "enName": "Mejiro McQueen",
+            "jpText": "ええっ！？　そんな……っ！\r\n仕事を途中で投げ出すだなんて……！",
+            "enText": "What? That's not ……! Throwing away the job in \nthe middle of the day. ……!",
+            "nextBlock": 18,
+            "origClipLength": 65,
+            "voiceIdx": 17,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": -1180541403203320926
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 6947782121928640944
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 5034591257420540983
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -7227103051689026465
+                }
+            ],
+            "pathId": -8070219642310875272,
+            "blockIdx": 17
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ううん、アタシが代わって欲しいの。",
+            "enText": "No, I want Ata to take over.",
+            "nextBlock": 19,
+            "origClipLength": 56,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 6982760454397761312
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 9144732578457401365
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3281632443100964876
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -5724692230607166294
+                }
+            ],
+            "pathId": -6901294089734925203,
+            "blockIdx": 18
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "もともと手先が器用な人に頼みたかったのよ。\r\n例えば……マックイーンさんみたいな。",
+            "enText": "I always wanted to ask someone \nwho is good with her hands. Like \nMs.…… McQueen, for example.",
+            "nextBlock": 20,
+            "origClipLength": 71,
+            "voiceIdx": 39,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -6946070207170465867
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -5148682640522248604
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 4871040929157755800
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 3259618737070774357
+                }
+            ],
+            "pathId": -6232612590638022702,
+            "blockIdx": 19
+        },
+        {
+            "jpName": "メジロマックイーン",
+            "enName": "Mejiro McQueen",
+            "jpText": "……わかりましたわ。\r\nではそちらを行うことにします。",
+            "enText": "…… Okay, I understand. Then \nwe will do that one.",
+            "nextBlock": 21,
+            "origClipLength": 62,
+            "voiceIdx": 48,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -8794044191178530401
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 3867488994221892265
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -5480362716345900580
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -2199526437579668024
+                }
+            ],
+            "pathId": -200260870169105976,
+            "blockIdx": 20
+        },
+        {
+            "jpName": "メジロマックイーン",
+            "enName": "Mejiro McQueen",
+            "jpText": "ふふっ、器用さには自信がありますから。",
+            "enText": "Phew, I have confidence in my dexterity.",
+            "nextBlock": 22,
+            "origClipLength": 57,
+            "voiceIdx": 0,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 6227343362009136153
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -3690325845979485648
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 4023903397560528295
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 3666157865862448450
+                }
+            ],
+            "pathId": -6558181879638713238,
+            "blockIdx": 21
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……はぁ。",
+            "enText": "…… Huh.",
+            "nextBlock": 23,
+            "origClipLength": 48,
+            "voiceIdx": 60,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -87328356025558689
+                },
+                {
+                    "origLen": 98,
+                    "pathId": -3939857892715871337
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 2682876751686822409
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -4744338499221236438
+                }
+            ],
+            "pathId": -8481122047786901100,
+            "blockIdx": 22
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "その後もダイワスカーレットは、\r\nさまざまな立ち回りをしつつ、料理を作り――",
+            "enText": "After that, Daiwa Scarlet continued to make \nvarious moves and cook―and then, in the end, \nshe was the one who made it.",
+            "nextBlock": 24,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": 192356854623001561
+                },
+                {
+                    "origLen": 94,
+                    "pathId": -8110432202039879856
+                }
+            ],
+            "pathId": -7883426891170488357,
+            "blockIdx": 23
+        },
+        {
+            "jpName": "トウカイテイオー",
+            "enName": "Tokai Teio",
+            "jpText": "あ～、美味しかった！！　ビーチで\r\n食べるカレーはいつもの10倍美味しいね！",
+            "enText": "Oh, it was delicious! Curry on the beach \ntastes ten times better than usual!",
+            "nextBlock": 25,
+            "origClipLength": 69,
+            "voiceIdx": 46,
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": -8023661349073462072
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 6841261407972989392
+                },
+                {
+                    "origLen": 207,
+                    "pathId": -9023586666729987649
+                },
+                {
+                    "origLen": 244,
+                    "pathId": 9065868289670761514
+                },
+                {
+                    "origLen": 253,
+                    "pathId": -5531261618979383019
+                },
+                {
+                    "origLen": 250,
+                    "pathId": 6077784248299107345
+                }
+            ],
+            "pathId": -7517762616797564072,
+            "blockIdx": 24
+        },
+        {
+            "jpName": "メジロマックイーン",
+            "enName": "Mejiro McQueen",
+            "jpText": "見た目から楽しめたカレーでしたわね。\r\n私が下ごしらえをしたジャガイモも……♪",
+            "enText": "I enjoyed this curry from the looks of it. \nThe potatoes I prepped were also ……♪",
+            "nextBlock": 26,
+            "origClipLength": 70,
+            "voiceIdx": 2,
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 6563101560168273424
+                },
+                {
+                    "origLen": 140,
+                    "pathId": 5561413672403215445
+                },
+                {
+                    "origLen": 128,
+                    "pathId": 6324959429893871852
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 2995739047835413982
+                }
+            ],
+            "pathId": 8863102810338159878,
+            "blockIdx": 25
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……やっと、ひと息……ね……。",
+            "enText": "…… Finally, a breath of fresh air…… right?",
+            "nextBlock": 27,
+            "origClipLength": 54,
+            "voiceIdx": 60,
+            "choices": [
+                {
+                    "jpText": "お疲れ様",
+                    "enText": "that's enough for today",
+                    "nextBlock": 27
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 207,
+                    "pathId": 1666504132804087404
+                },
+                {
+                    "origLen": 180,
+                    "pathId": -4775323837821870867
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -7400327075658013886
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 1008502963091627387
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -5392689044823908436
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -9109487094193099903
+                }
+            ],
+            "pathId": 2534214571239913247,
+            "blockIdx": 26
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "本当よ……でも、美味しい、完璧な\r\nカレーができて……よかったわ……。",
+            "enText": "It's true…… but I'm glad we were able to make \na delicious, perfect curry……",
+            "nextBlock": 28,
+            "origClipLength": 67,
+            "voiceIdx": 14,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 1182732649020886950
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -5711025912996741586
+                }
+            ],
+            "pathId": -8195942792059454946,
+            "blockIdx": 27
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "そう彼女が話すように、\r\n彼女が作ったカレーは見事なものだった。",
+            "enText": "As she said, the curry she \nmade was magnificent.",
+            "nextBlock": 29,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "料理、得意なんだね",
+                    "enText": "You're good at cooking, aren't you?",
+                    "nextBlock": 29
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -1474745157078360995
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 1654229465396979221
+                }
+            ],
+            "pathId": 327357690267339802,
+            "blockIdx": 28
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……まあね。アタシにできないことはないの。\r\n家事だって全部できるんだから。",
+            "enText": "…… Well, you know. There is nothing I can't \ndo. I can do all the housework.",
+            "nextBlock": 30,
+            "origClipLength": 69,
+            "voiceIdx": 37,
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": 4543445066057213951
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 6914037360940669481
+                }
+            ],
+            "pathId": 7079153994619376461,
+            "blockIdx": 29
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ママもパパも家にいない時が多かったし、\r\nできないことがあると1人の時、困るでしょ。",
+            "enText": "Mom and Dad were not home most of the time, \nand if there was something you couldn't do, \nyou would be in trouble when you were alone.",
+            "nextBlock": 31,
+            "origClipLength": 72,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 2541446235010800691
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -2926998257743327351
+                }
+            ],
+            "pathId": -2640273966686544720,
+            "blockIdx": 30
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "なんでもできる優秀なスカーレットの方が、\r\nママたちも安心できるだろうし。",
+            "enText": "I'm sure moms would feel more \ncomfortable with Scarlett, who \nis capable of doing anything.",
+            "nextBlock": 32,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "家でも優等生だな",
+                    "enText": "You're an honor student at home.",
+                    "nextBlock": 32
+                },
+                {
+                    "jpText": "家でも優等生なのね",
+                    "enText": "You're an honor student at home.",
+                    "nextBlock": 32
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -2403630844674181680
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -7772036777114633027
+                }
+            ],
+            "pathId": 2261886775233858495,
+            "blockIdx": 31
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……ふんっ。",
+            "enText": "…… hmmm.",
+            "nextBlock": 33,
+            "origClipLength": 63,
+            "voiceIdx": 19,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -9187764989101333518
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 5378820401768649650
+                }
+            ],
+            "pathId": -8054865607854898864,
+            "blockIdx": 32
+        },
+        {
+            "jpName": "トウカイテイオー",
+            "enName": "Tokai Teio",
+            "jpText": "ねー、スカーレット！！\r\n片付けはどうすればいいー？",
+            "enText": "Hey, Scarlett! How do I clean up?",
+            "nextBlock": 34,
+            "origClipLength": 61,
+            "voiceIdx": 52,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -5065497512882482561
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -7401051182055836692
+                }
+            ],
+            "pathId": 1151231402296678811,
+            "blockIdx": 33
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "あー……ちょっと待って。\r\n今行くから――",
+            "enText": "Uh…… wait a minute. I'm on my way―",
+            "nextBlock": 35,
+            "origClipLength": 58,
+            "voiceIdx": 34,
+            "choices": [
+                {
+                    "jpText": "手伝うよ",
+                    "enText": "Let me help you.",
+                    "nextBlock": 35
+                },
+                {
+                    "jpText": "お母さんみたい……",
+                    "enText": "You sound like my mom: ……",
+                    "nextBlock": 39
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -39186476725314170
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 5668000234482521961
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -5668699733341752784
+                }
+            ],
+            "pathId": 257889208983437429,
+            "blockIdx": 34
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……本当？　助かるわ。",
+            "enText": "…… Really? That's helpful.",
+            "nextBlock": 36,
+            "origClipLength": 52,
+            "voiceIdx": 5,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -4278152599953910969
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -1418992873449742628
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 1567150554854720627
+                }
+            ],
+            "pathId": 3596434117045192018,
+            "blockIdx": 35
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "トレーニング以外でも\r\nアンタって頼りになるのね。",
+            "enText": "You're so dependable even \nwhen you're not training.",
+            "nextBlock": 37,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "いつでも頼りにして",
+                    "enText": "You can always count on me.",
+                    "nextBlock": 37
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -1631904330532891297
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 5148255628216840733
+                }
+            ],
+            "pathId": -5993859013719492708,
+            "blockIdx": 36
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……ふん。そして調子に乗りやすいのね。",
+            "enText": "…… Hmm. And you're so easy to get on with.",
+            "nextBlock": 38,
+            "origClipLength": 57,
+            "voiceIdx": 60,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -6562274945763885593
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 6251785581013722754
+                }
+            ],
+            "pathId": 4997919248201667881,
+            "blockIdx": 37
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "そしてダイワスカーレットたちと\r\n食器を洗っていると――",
+            "enText": "And as I was washing the dishes with the \nDaiwa Scarlets―",
+            "nextBlock": 45,
+            "origClipLength": 63,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 2930873753231497885
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 4291512995893960880
+                },
+                {
+                    "origLen": 107,
+                    "pathId": 2941758496485035973
+                },
+                {
+                    "origLen": 172,
+                    "pathId": -6048164041323948216
+                }
+            ],
+            "pathId": -3143275906276904114,
+            "blockIdx": 38
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……今なんて言ったのかしら？\r\nトレーナーさん？",
+            "enText": "…… What did I just say? Trainer?",
+            "nextBlock": 40,
+            "origClipLength": 60,
+            "voiceIdx": 30,
+            "choices": [
+                {
+                    "jpText": "ナニモイッテマセン",
+                    "enText": "xxxx",
+                    "nextBlock": 40
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 6510025888534040382
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -8962989137150014168
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -1961613974307175045
+                }
+            ],
+            "pathId": -431108838113604870,
+            "blockIdx": 39
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "いえいえ～、そんなこと仰らずに！\r\nね、聞かせてくださいよ～♪",
+            "enText": "No, no, no, don't say that! Let's hear it!",
+            "nextBlock": 41,
+            "origClipLength": 65,
+            "voiceIdx": 0,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -969626270763899923
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -2892552421342216746
+                }
+            ],
+            "pathId": -2362287519674066184,
+            "blockIdx": 40
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "大丈夫、恥ずかしいのならば\r\nあっちのビーチの端っこでお話しましょう？",
+            "enText": "It's okay, if you're embarrassed, we can talk \nat the end of the beach over there.",
+            "nextBlock": 42,
+            "origClipLength": 67,
+            "voiceIdx": 91,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -1225387065111273478
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -1595229248660964707
+                }
+            ],
+            "pathId": -926355203508227744,
+            "blockIdx": 41
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……ね？",
+            "enText": "…… right?",
+            "nextBlock": 43,
+            "origClipLength": 47,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": 422096788105341830
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -2956594938795729000
+                }
+            ],
+            "pathId": 514432526130696346,
+            "blockIdx": 42
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "……しばらく謝り続けるしか、\r\n手段はなさそうだ。",
+            "enText": "…… I guess the only thing I can do is to keep \napologizing for a while.",
+            "nextBlock": 44,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 4671199396175492340
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -7291093718228995657
+                }
+            ],
+            "pathId": 7200969494475399871,
+            "blockIdx": 43
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "結果、ダイワスカーレットの代わりに、\r\n皿洗いをすることで許してもらえることに\nなったのだが――",
+            "enText": "As a result, she was allowed to do the dishes \ninstead of Daiwa Scarlet. But",
+            "nextBlock": 45,
+            "origClipLength": 76,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 665569694807541479
+                },
+                {
+                    "origLen": 128,
+                    "pathId": 1834369120013336757
+                },
+                {
+                    "origLen": 107,
+                    "pathId": -4691397461016026037
+                },
+                {
+                    "origLen": 172,
+                    "pathId": -8730230435950872493
+                }
+            ],
+            "pathId": -5363212726346417505,
+            "blockIdx": 44
+        },
+        {
+            "jpName": "トウカイテイオー",
+            "enName": "Tokai Teio",
+            "jpText": "あ、そーだ！\r\nスカーレットも『秋華賞』出るの？",
+            "enText": "Oh, that's right! Is Scarlett going to be in \nthe \"Shuka-sho\" too?",
+            "nextBlock": 46,
+            "origClipLength": 60,
+            "voiceIdx": 53,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 5936545941726005034
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -4330099938823255855
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -1824518060460887173
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5935426401867358276
+                }
+            ],
+            "pathId": -8231519199426080067,
+            "blockIdx": 45
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……？　もちろん、\r\n普通に出る予定だったけど……。",
+            "enText": "……? Of course, I was going \nto leave normally, but ……",
+            "nextBlock": 47,
+            "origClipLength": 61,
+            "voiceIdx": 37,
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": -6541495363322734400
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -7077968308983557125
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -3123016365853304388
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -1337038659551294829
+                }
+            ],
+            "pathId": 6692009387779068955,
+            "blockIdx": 46
+        },
+        {
+            "jpName": "トウカイテイオー",
+            "enName": "Tokai Teio",
+            "jpText": "そーなんだ！　じゃあウオッカと一緒だね！",
+            "enText": "Oh, yeah! So it's just like vodka then!",
+            "nextBlock": 48,
+            "origClipLength": 58,
+            "voiceIdx": 1,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 6554160450190765421
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -8813322972842246538
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -5438726306932921110
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8359972122630126202
+                }
+            ],
+            "pathId": -7078536948355411467,
+            "blockIdx": 47
+        },
+        {
+            "jpName": "トウカイテイオー",
+            "enName": "Tokai Teio",
+            "jpText": "2人とも頑張ってね！\r\nボク、どっちも応援してるから！",
+            "enText": "Good luck to both of you! I'm \nrooting for both of you!",
+            "nextBlock": 49,
+            "origClipLength": 62,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 6347274764443132840
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 9217082402852576633
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -6993343235261062098
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -133845019826709169
+                }
+            ],
+            "pathId": 7090168611648245398,
+            "blockIdx": 48
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……ふぅ～ん、そうなんだ。",
+            "enText": "…… Hmmm, I see.",
+            "nextBlock": 50,
+            "origClipLength": 53,
+            "voiceIdx": 38,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 9210717828750074896
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -2555849750260728742
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 6021602133887025858
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -477279928437343098
+                }
+            ],
+            "pathId": 1749538925645093780,
+            "blockIdx": 49
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "アンタも聞いたわよね。\r\nウオッカが『秋華賞』に出走するってこと。",
+            "enText": "You heard it, didn't you? Vodka is going to \nrun in the Shukka-sho.",
+            "nextBlock": 51,
+            "origClipLength": 66,
+            "voiceIdx": 68,
+            "animData": [
+                {
+                    "origLen": 241,
+                    "pathId": 8240248185703850916
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -221317717796876917
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -3599386241344118582
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -3478474306536811411
+                }
+            ],
+            "pathId": -7165915916381787457,
+            "blockIdx": 50
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "願ってもない機会だわ。\r\nそこで、アタシは……！",
+            "enText": "It's an opportunity I wish I didn't have. So, \nI'll be at ……!",
+            "nextBlock": 52,
+            "origClipLength": 60,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "必ず、勝とう",
+                    "enText": "We will win.",
+                    "nextBlock": 52
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 3521340528581080041
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -3181829698261957208
+                }
+            ],
+            "pathId": -4735587833578069668,
+            "blockIdx": 51
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ええ！　気合い入れていきましょう！\r\n“1番”になるのはアタシたちよ！！",
+            "enText": "Yes! Let's get fired up! We're \ngoing to be number one!",
+            "nextBlock": 53,
+            "origClipLength": 68,
+            "voiceIdx": 97,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -2588084328820313086
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -3768659873629403166
+                }
+            ],
+            "pathId": 2163253719011485742,
+            "blockIdx": 52
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "こうして新たなウオッカと競い合う\r\n舞台が整ったのだった――――",
+            "enText": "Thus the stage was set to compete \nwith the new Vodka. ――",
+            "nextBlock": -1,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 4604252750002714619
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 6842789289244242418
+                }
+            ],
+            "pathId": 7794471657407487784,
+            "blockIdx": 53
+        }
+    ],
+    "modified": 1674832108
+}

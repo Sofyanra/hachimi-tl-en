@@ -1,0 +1,986 @@
+{
+    "version": 6,
+    "bundle": "CCKWZBPLMUD2ZH3DIM6WBRX4MUW5MY36",
+    "type": "story",
+    "storyId": "501009100",
+    "title": "ダイワスカーレット登場！",
+    "text": [
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "今日からダイワスカーレットと\r\nトゥインクル・シリーズに挑戦する。",
+            "enText": "Starting today, I'll be trying out the \nTwinkle Series with Daiwa Scarlet.",
+            "nextBlock": 2,
+            "origClipLength": 66,
+            "voiceIdx": -1,
+            "coloredText": [
+                {
+                    "jpText": "ダイワスカーレット",
+                    "enText": "Daiwa Scarlet"
+                },
+                {
+                    "jpText": "トゥインクル・シリーズ",
+                    "enText": "Twinkle Series"
+                }
+            ],
+            "pathId": 3380491535881977965,
+            "blockIdx": 1
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "はやる気持ちを抑えながら、\r\n彼女にそのことを伝えに行くと――",
+            "enText": "I suppressed my impatience and went to her to \ntell her about it.",
+            "nextBlock": 3,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "pathId": 1219513647294275949,
+            "blockIdx": 2
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ふぅ……先生。みんなが出した課題、\r\n机の上にまとめておきましたから。",
+            "enText": "Phew……… sir. I've put all your \nassignments on my desk.",
+            "nextBlock": 4,
+            "origClipLength": 67,
+            "voiceIdx": 59,
+            "animData": [
+                {
+                    "origLen": 138,
+                    "pathId": 1289358809149906432
+                },
+                {
+                    "origLen": 128,
+                    "pathId": 3718394155427875090
+                }
+            ],
+            "pathId": -363423196733091210,
+            "blockIdx": 3
+        },
+        {
+            "jpName": "教師",
+            "enName": "Teacher",
+            "jpText": "助かるわ～！　でも、ごめんなさいね。\r\nデビュー前の忙しい時期なのに……。",
+            "enText": "Thanks for the help～! But I'm sorry. It's a \nbusy time for me before my debut. ……",
+            "nextBlock": 5,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": 6279547225056977218
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 3826730792341805719
+                }
+            ],
+            "pathId": -6664442001570844204,
+            "blockIdx": 4
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "いえいえ、お気になさらず。\r\nお手伝いくらい、いつでも付き合いますよ！",
+            "enText": "No, no, no, don't worry. \nI'm always happy to help!",
+            "nextBlock": 6,
+            "origClipLength": 67,
+            "voiceIdx": 0,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 3635110464656120930
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -3230478990700064447
+                }
+            ],
+            "pathId": -5157963616009969583,
+            "blockIdx": 5
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "おっ、さっすが優等生！\r\n俺の代わりに日直の仕事もよろしく～！",
+            "enText": "Whoa, that's a real honor student! You'll \nhave to take over day duty for me too～!",
+            "nextBlock": 7,
+            "origClipLength": 65,
+            "voiceIdx": 3,
+            "animData": [
+                {
+                    "origLen": 169,
+                    "pathId": 8568800733027965204
+                },
+                {
+                    "origLen": 125,
+                    "pathId": -4966786377293517721
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 3582201956565988475
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -3115650033090048341
+                }
+            ],
+            "pathId": -788409495153977879,
+            "blockIdx": 6
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ええ、もちろ……。",
+            "enText": "Yes, of course. ……",
+            "nextBlock": 8,
+            "origClipLength": 50,
+            "voiceIdx": 37,
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": 1137383442139477480
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -3436508349110810078
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -2403577368991683655
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 8712594971030365863
+                }
+            ],
+            "pathId": -933493909402100254,
+            "blockIdx": 7
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "はぁ！？　なに言ってんのよ！\r\nウオッカ！！",
+            "enText": "Huh! What are you talking about! Vodka!",
+            "nextBlock": 9,
+            "origClipLength": 59,
+            "voiceIdx": 16,
+            "coloredText": [
+                {
+                    "jpText": "ウオッカ",
+                    "enText": "vodka"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 5130958146620713612
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 4282664162192052873
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 4289471381924499239
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 740207457951745254
+                }
+            ],
+            "pathId": -5325840009429143756,
+            "blockIdx": 8
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "ははっ、そんなしかめっ面するなよ。\r\n“優等生面”が台無しだぜ？",
+            "enText": "Ha ha, don't frown like that. You're ruining \nyour \"honor student\" look.",
+            "nextBlock": 10,
+            "origClipLength": 65,
+            "voiceIdx": 0,
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": 1774286076245615667
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -4090857567376320240
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -2760729087229845267
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 6741086075161637200
+                }
+            ],
+            "pathId": 4765646380890433950,
+            "blockIdx": 9
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ぐっ……！",
+            "enText": "Gooo ……!",
+            "nextBlock": 11,
+            "origClipLength": 51,
+            "voiceIdx": 15,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -6312617357021759036
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -4628455679520329905
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 5279150280348894877
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -6910815616015681591
+                }
+            ],
+            "pathId": -4748315951698621219,
+            "blockIdx": 10
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……ふん！　アンタも“不良面”やめたら？\r\n空いた時間で自主トレするつもりなんでしょ？",
+            "enText": "…… Why don't you stop being a \"punk\" \ntoo? You're going to train in your \nspare time, aren't you?",
+            "nextBlock": 12,
+            "origClipLength": 73,
+            "voiceIdx": 19,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": -3425274731044446946
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 1774242470164530030
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 723902782906814685
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -6881263833918685319
+                }
+            ],
+            "pathId": -2172344684492181699,
+            "blockIdx": 11
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "ばっ……そんなことねーっつーの！",
+            "enText": "Bak…… that ain't true!",
+            "nextBlock": 13,
+            "origClipLength": 55,
+            "voiceIdx": 25,
+            "animData": [
+                {
+                    "origLen": 7,
+                    "pathId": -223418231456918564
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 7185141071425840777
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 678288317178373540
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -4558176582874202010
+                }
+            ],
+            "pathId": 7566205420950793580,
+            "blockIdx": 12
+        },
+        {
+            "jpName": "教師",
+            "enName": "Teacher",
+            "jpText": "ああ、ウオッカさん。ちょうどよかったわ。\r\n確認したいことがひとつあって。",
+            "enText": "Oh, Ms. Vodka. You're just in time. I just \nwanted to check one thing.",
+            "nextBlock": 14,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 4792084948400189814
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 4871561096035436472
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -3866810293725285652
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -74759878574064112
+                }
+            ],
+            "pathId": 8968418407918723566,
+            "blockIdx": 13
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ほぉ～ら。先生もウオッカに\r\n一言物申したいですって！",
+            "enText": "There you go. The doctor wants to say \nsomething about vodka!",
+            "nextBlock": 15,
+            "origClipLength": 62,
+            "voiceIdx": 6,
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 5395114948449446171
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 1745845683595721138
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 3532450025155932317
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 2091329559902110972
+                }
+            ],
+            "pathId": -6343929988621966821,
+            "blockIdx": 14
+        },
+        {
+            "jpName": "教師",
+            "enName": "Teacher",
+            "jpText": "うふふ、そうなの……ね、ウオッカさん。\r\n例の件だけど、考えてみてくれた？",
+            "enText": "Ummm, yes…… right, Ms. Vodka. Have you \nthought about the example I gave you?",
+            "nextBlock": 16,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -5010114378534496765
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -2906651179720653108
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -7798786018834941281
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -7506021172236370731
+                }
+            ],
+            "pathId": 8530772316116765425,
+            "blockIdx": 15
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "あー、取材のことっすか？\r\nでもあれは――",
+            "enText": "Oh, you mean the interview? But that was―",
+            "nextBlock": 17,
+            "origClipLength": 58,
+            "voiceIdx": 20,
+            "animData": [
+                {
+                    "origLen": 10,
+                    "pathId": -602426721062552529
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -6027490486728246297
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -6027647644039480519
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 17876339812903909
+                }
+            ],
+            "pathId": -2142464239825069775,
+            "blockIdx": 16
+        },
+        {
+            "jpName": "教師",
+            "enName": "Teacher",
+            "jpText": "いいじゃない！　『デビュー間近の新星！\r\n期待度ナンバーワンのウマ娘！』\nそう、声をかけられたのよ？",
+            "enText": "That's great! A rising star who is about to \nmake her debut! The most promising horsegirl \nof all!\" That's what they said to me, right?",
+            "nextBlock": 18,
+            "origClipLength": 77,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -7730148048487295666
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 1260577826336605130
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 2800547499909494754
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 3431035084996090391
+                }
+            ],
+            "pathId": 2519467028269814771,
+            "blockIdx": 17
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "なら、なおさらやめとくっす。",
+            "enText": "If that's the case, I'm not going to do it.",
+            "nextBlock": 19,
+            "origClipLength": 54,
+            "voiceIdx": 50,
+            "animData": [
+                {
+                    "origLen": 6,
+                    "pathId": 3055381203209533476
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -4449026992540710243
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -3474649705025048314
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 3250134997602351673
+                }
+            ],
+            "pathId": 7164504552540316478,
+            "blockIdx": 18
+        },
+        {
+            "jpName": "ウオッカ",
+            "enName": "Vodka",
+            "jpText": "俺、まだデビューすらしてねぇし！\r\n半端な状態で、ダサい姿を見せたくないんで！",
+            "enText": "I haven't even made my debut yet! I don't \nwant to look lame in a half-assed state!",
+            "nextBlock": 20,
+            "origClipLength": 67,
+            "voiceIdx": 2,
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": 4245644763828461083
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 3053289075528091680
+                },
+                {
+                    "origLen": 28,
+                    "pathId": 5924887779837447884
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -8196474550962720519
+                }
+            ],
+            "pathId": -9100880572783124636,
+            "blockIdx": 19
+        },
+        {
+            "jpName": "教師",
+            "enName": "Teacher",
+            "jpText": "あっ……もう！　ウオッカさんってば！\r\nちょっと話を聞くだけでも！",
+            "enText": "Oh…… already! Oh, Ms. Vodka! Just listen to \nme for a minute!",
+            "nextBlock": 21,
+            "origClipLength": 66,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 7799250932511881820
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -1849062629365441488
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -8864114910152060905
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 5156546648391569542
+                }
+            ],
+            "pathId": 7828185484920566943,
+            "blockIdx": 20
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "…………。",
+            "enText": "…………",
+            "nextBlock": 22,
+            "origClipLength": 48,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 145,
+                    "pathId": -3254623134910355628
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -4876337445908367999
+                }
+            ],
+            "pathId": 3131763135653692397,
+            "blockIdx": 21
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "…………1番、期待のウマ娘。\r\nアタシじゃなくて、アイツが。",
+            "enText": "………1, the expected horsegirl. Not I, \nshe's the one.",
+            "nextBlock": 23,
+            "origClipLength": 64,
+            "voiceIdx": 18,
+            "choices": [
+                {
+                    "jpText": "へこんでるの？",
+                    "enText": "Are you upset?",
+                    "nextBlock": 23
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -304900793198370552
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 1657338469395249556
+                }
+            ],
+            "pathId": -8759785495329222599,
+            "blockIdx": 22
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ち、ちがうわ。そんなわけ――",
+            "enText": "No, no. That's not―",
+            "nextBlock": 24,
+            "origClipLength": 54,
+            "voiceIdx": 26,
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 9112581747105072329
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -7346898078999407883
+                }
+            ],
+            "pathId": 2971010915429162438,
+            "blockIdx": 23
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "って、トレーナー！？　なんでアンタが……！",
+            "enText": "What do you mean, trainer! Why are you ……!",
+            "nextBlock": 25,
+            "origClipLength": 58,
+            "voiceIdx": 16,
+            "choices": [
+                {
+                    "jpText": "来ちゃった",
+                    "enText": "I'm here.",
+                    "nextBlock": 25
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": 8014020906794361945
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 2510440428932600128
+                }
+            ],
+            "pathId": -7405511162421890477,
+            "blockIdx": 24
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "『来ちゃった』じゃないわよ！！　ばか！！",
+            "enText": "It's not \"I'm here\"! You idiot!",
+            "nextBlock": 26,
+            "origClipLength": 58,
+            "voiceIdx": 62,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": 5335943705736145462
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -2020901393927860262
+                }
+            ],
+            "pathId": -7182477343342400118,
+            "blockIdx": 25
+        },
+        {
+            "jpName": "ウマ娘A",
+            "enName": "Horsegirl A",
+            "jpText": "あ、あの～……今、すっごい大声が聞こえた\r\nけど……もしかして、スカーレット……？",
+            "enText": "Oh, um…… I just heard a very loud voice.…… \nCould it be Scarlett ……?",
+            "nextBlock": 27,
+            "origClipLength": 71,
+            "voiceIdx": -1,
+            "coloredText": [
+                {
+                    "jpText": "スカーレット",
+                    "enText": "scarlet"
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -6319024394465065304
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -183274846009618501
+                }
+            ],
+            "pathId": -3698692916387579949,
+            "blockIdx": 26
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……！",
+            "enText": "……!",
+            "nextBlock": 28,
+            "origClipLength": 46,
+            "voiceIdx": 110,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -7427220216513005874
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 633875914437223106
+                }
+            ],
+            "pathId": -2903007180395062637,
+            "blockIdx": 27
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "そ、そーんなわけないでしょ♪　うふふっ！\r\nトレーナーさん、早く部屋に行きましょっ♪",
+            "enText": "No, of course not…… Trainer, \nlet's go to the room quickly.",
+            "nextBlock": 29,
+            "origClipLength": 72,
+            "voiceIdx": 14,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -4158492931734239256
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 9063406840322785242
+                }
+            ],
+            "pathId": 3540449964221270176,
+            "blockIdx": 28
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "まったく……アンタのせいで“優等生”の\r\nスカーレットが台無しになる所だったわ……。",
+            "enText": "You almost ruined my \"honor student\" \nScarlett with your ……",
+            "nextBlock": 30,
+            "origClipLength": 72,
+            "voiceIdx": 21,
+            "choices": [
+                {
+                    "jpText": "ごめん",
+                    "enText": "dismissal",
+                    "nextBlock": 30
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 151,
+                    "pathId": -1078820269724593422
+                },
+                {
+                    "origLen": 134,
+                    "pathId": -1170861331099769710
+                }
+            ],
+            "pathId": -2259837794808489173,
+            "blockIdx": 29
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ふん！　ごめんじゃ済まないんだから！\r\nちゃんと反省してよね！",
+            "enText": "Hmph! Sorry doesn't cut \nit! You better be sorry!",
+            "nextBlock": 31,
+            "origClipLength": 65,
+            "voiceIdx": 19,
+            "animData": [
+                {
+                    "origLen": 8,
+                    "pathId": -5721685751502833791
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -3493213557548233311
+                }
+            ],
+            "pathId": -5216523153621060105,
+            "blockIdx": 30
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……で？　アタシを呼びに来たってことは、\r\nついに決まったってことでしょ。",
+            "enText": "At ……? You came to ask for me, that means \nit's finally decided.",
+            "nextBlock": 32,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -6723207851027137600
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -8738882844866197707
+                }
+            ],
+            "pathId": 4649691270669389676,
+            "blockIdx": 31
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "――デビュー戦の日。",
+            "enText": "―Date of debut.",
+            "nextBlock": 33,
+            "origClipLength": 51,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "ああ",
+                    "enText": "Ah!",
+                    "nextBlock": 33
+                },
+                {
+                    "jpText": "ええ",
+                    "enText": "Yeah, I know.",
+                    "nextBlock": 33
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -8894556909424523221
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 6295476564328671957
+                }
+            ],
+            "pathId": 1273468301731136495,
+            "blockIdx": 32
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "そう、なら今日からお互い全力でいくわよ。\r\n手を抜くとか一切なしだから。",
+            "enText": "Well, then, starting today, we'll \nboth be giving it our all. No cutting \ncorners or anything.",
+            "nextBlock": 34,
+            "origClipLength": 68,
+            "voiceIdx": 3,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": 8891951131563280230
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 3121259042137988364
+                }
+            ],
+            "pathId": -4683894026765088639,
+            "blockIdx": 33
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "1番はこのアタシのもの。\r\n誰にも譲ったりしないんだから。",
+            "enText": "Number one belongs to me. \nI won't give it to anyone.",
+            "nextBlock": 35,
+            "origClipLength": 63,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -4830861198921628844
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -2793381411369766869
+                }
+            ],
+            "pathId": 7495765055687101749,
+            "blockIdx": 34
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "……アンタも自分のやること理解してよね。\r\nアタシの担当トレーナーなんだから――",
+            "enText": "…… You have to understand what you're doing. \nYou're my trainer, you know what you're doing.",
+            "nextBlock": 36,
+            "origClipLength": 71,
+            "voiceIdx": 68,
+            "choices": [
+                {
+                    "jpText": "必ず君を“1番”のウマ娘にする",
+                    "enText": "I will definitely make you the \n\"number one\" horsegirl.",
+                    "nextBlock": 36
+                },
+                {
+                    "jpText": "必ず貴方を“1番”のウマ娘にする",
+                    "enText": "I will make you the best horsegirl for sure!",
+                    "nextBlock": 36
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -563358328372924069
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 4046272761651878746
+                }
+            ],
+            "pathId": 1432758906425755525,
+            "blockIdx": 35
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "ふんっ……当然よね。",
+            "enText": "Hmmm…… of course.",
+            "nextBlock": 37,
+            "origClipLength": 51,
+            "voiceIdx": 6,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -4678564252315610874
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 7425728551257089565
+                }
+            ],
+            "pathId": -5093071712556520179,
+            "blockIdx": 36
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "さ、トレーナー。\r\n誰が1番の存在か、示しに行きましょ。",
+            "enText": "Come on, trainer. Let's go \nshow them who's number one.",
+            "nextBlock": 38,
+            "origClipLength": 63,
+            "voiceIdx": 10,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -6729097398327629492
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -3959651590685269525
+                }
+            ],
+            "pathId": 7912440184059372770,
+            "blockIdx": 37
+        },
+        {
+            "jpName": "ダイワスカーレット",
+            "enName": "Daiwa Scarlet",
+            "jpText": "なにが取材よ！　なにが期待のウマ娘よ！\r\nアタシが1番すごいウマ娘なんだからっ！！",
+            "enText": "What's with the interviews! What's up with \nthe promising horsegirl! I'm the most \namazing horsegirl!",
+            "nextBlock": 39,
+            "origClipLength": 71,
+            "voiceIdx": 63,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -2661345833409584453
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1227658301857311174
+                }
+            ],
+            "pathId": 4697395157576751956,
+            "blockIdx": 38
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "こうして、ダイワスカーレットと共に\r\n『1番のウマ娘』を目指す日々が\n始まったのだった！",
+            "enText": "And so, the days began for Daiwa Scarlet to \nbecome \"the best horse's daughter\"!",
+            "nextBlock": -1,
+            "origClipLength": 73,
+            "voiceIdx": -1,
+            "pathId": 5988981894360096337,
+            "blockIdx": 39
+        }
+    ],
+    "modified": 1674832107
+}
